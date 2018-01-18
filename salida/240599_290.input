@@ -1,0 +1,21 @@
+209778	210452	+	1	240599:Terracoccus sp. 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111584.peg.290	0	none
+200453	199872	-	0	240599:Terracoccus sp. 	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)	fig|6666666.111584.peg.280	0	none
+201333	200524	-	0	240599:Terracoccus sp. 	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism	fig|6666666.111584.peg.281	0	none
+201450	202820	+	0	240599:Terracoccus sp. 	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	fig|6666666.111584.peg.282	0	none
+203665	202886	-	0	240599:Terracoccus sp. 	serine/threonine protein phosphatase	fig|6666666.111584.peg.283	0	none
+204874	203672	-	0	240599:Terracoccus sp. 	Quinolinate synthetase (EC 2.5.1.72)	fig|6666666.111584.peg.284	0	none
+204985	205707	+	0	240599:Terracoccus sp. 	possible short chain dehydrogenase	fig|6666666.111584.peg.285	0	none
+205704	206798	+	0	240599:Terracoccus sp. 	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	fig|6666666.111584.peg.286	0	none
+206921	208087	+	0	240599:Terracoccus sp. 	Glycerate kinase (EC 2.7.1.31)	fig|6666666.111584.peg.287	0	none
+208217	208594	+	0	240599:Terracoccus sp. 	probable iron binding protein from the HesB_IscA_SufA family	fig|6666666.111584.peg.288	0	none
+208715	209701	+	0	240599:Terracoccus sp. 	putative Adenosine kinase (EC 2.7.1.20)	fig|6666666.111584.peg.289	0	none
+210684	210421	-	0	240599:Terracoccus sp. 	Cysteine desulfurase (EC 2.8.1.7)	fig|6666666.111584.peg.291	0	none
+211919	210681	-	0	240599:Terracoccus sp. 	Cysteine desulfurase (EC 2.8.1.7)	fig|6666666.111584.peg.292	0	none
+212134	213060	+	0	240599:Terracoccus sp. 	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	fig|6666666.111584.peg.293	0	none
+213060	214829	+	0	240599:Terracoccus sp. 	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	fig|6666666.111584.peg.294	0	none
+214835	215236	+	0	240599:Terracoccus sp. 	putative integral membrane protein	fig|6666666.111584.peg.295	0	none
+216003	215653	-	0	240599:Terracoccus sp. 	hypothetical protein	fig|6666666.111584.peg.296	0	none
+216713	216150	-	0	240599:Terracoccus sp. 	hypothetical protein	fig|6666666.111584.peg.297	0	none
+218651	216888	-	0	240599:Terracoccus sp. 	Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)	fig|6666666.111584.peg.298	0	none
+219757	218648	-	0	240599:Terracoccus sp. 	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	fig|6666666.111584.peg.299	0	none
+220616	219807	-	0	240599:Terracoccus sp. 	ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit	fig|6666666.111584.peg.300	7	cf_saccharide

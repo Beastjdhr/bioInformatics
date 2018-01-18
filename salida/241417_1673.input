@@ -1,0 +1,21 @@
+94682	95362	+	1	241417:Marmoricola sp. URHB	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112230.peg.1673	0	none
+83627	84037	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1663	7	cf_putative
+84572	84024	-	0	241417:Marmoricola sp. URHB	Transcriptional regulator, TetR family	fig|6666666.112230.peg.1664	7	cf_putative
+84696	85973	+	0	241417:Marmoricola sp. URHB	Sialic acid transporter (permease) NanT	fig|6666666.112230.peg.1665	7	cf_putative
+86099	87667	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1666	7	cf_putative
+87667	89538	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1667	7	cf_putative
+89531	90433	+	0	241417:Marmoricola sp. URHB	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.112230.peg.1668	0	none
+90562	91653	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1669	0	none
+91653	92801	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1670	0	none
+92798	94000	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1671	0	none
+94635	93961	-	0	241417:Marmoricola sp. URHB	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)	fig|6666666.112230.peg.1672	0	none
+95705	95367	-	0	241417:Marmoricola sp. URHB	Rhodanese domain protein	fig|6666666.112230.peg.1674	0	none
+96581	95715	-	0	241417:Marmoricola sp. URHB	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	fig|6666666.112230.peg.1675	0	none
+96657	98174	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1676	0	none
+98213	98443	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1677	0	none
+98624	99826	+	0	241417:Marmoricola sp. URHB	COG family: RecA-superfamily ATPases implicated in signal transduction	fig|6666666.112230.peg.1678	0	none
+100671	99847	-	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1679	0	none
+100941	101465	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1680	0	none
+101504	102634	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1681	0	none
+102687	103484	+	0	241417:Marmoricola sp. URHB	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	fig|6666666.112230.peg.1682	0	none
+103567	103986	+	0	241417:Marmoricola sp. URHB	putative regulatory protein	fig|6666666.112230.peg.1683	0	none

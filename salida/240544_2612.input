@@ -1,0 +1,21 @@
+10584	11342	+	1	240544:Serinicoccus profundi MCCC 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111529.peg.2612	0	none
+2035	515	-	0	240544:Serinicoccus profundi MCCC 	Cytosol aminopeptidase PepA (EC 3.4.11.1)	fig|6666666.111529.peg.2602	0	none
+2207	3232	+	0	240544:Serinicoccus profundi MCCC 	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	fig|6666666.111529.peg.2603	0	none
+3868	3314	-	0	240544:Serinicoccus profundi MCCC 	Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)	fig|6666666.111529.peg.2604	0	none
+4594	3974	-	0	240544:Serinicoccus profundi MCCC 	hypothetical protein	fig|6666666.111529.peg.2605	0	none
+5239	4673	-	0	240544:Serinicoccus profundi MCCC 	CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase	fig|6666666.111529.peg.2606	0	none
+5323	6729	+	0	240544:Serinicoccus profundi MCCC 	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	fig|6666666.111529.peg.2607	0	none
+6767	7687	+	0	240544:Serinicoccus profundi MCCC 	Glutathione S-transferase, omega (EC 2.5.1.18)	fig|6666666.111529.peg.2608	0	none
+7745	8884	+	0	240544:Serinicoccus profundi MCCC 	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	fig|6666666.111529.peg.2609	0	none
+8908	10008	+	0	240544:Serinicoccus profundi MCCC 	Glycerate kinase (EC 2.7.1.31)	fig|6666666.111529.peg.2610	0	none
+10094	10444	+	0	240544:Serinicoccus profundi MCCC 	probable iron binding protein from the HesB_IscA_SufA family	fig|6666666.111529.peg.2611	0	none
+11384	12274	+	0	240544:Serinicoccus profundi MCCC 	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	fig|6666666.111529.peg.2613	0	none
+12274	14052	+	0	240544:Serinicoccus profundi MCCC 	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)	fig|6666666.111529.peg.2614	0	none
+14052	14453	+	0	240544:Serinicoccus profundi MCCC 	putative integral membrane protein	fig|6666666.111529.peg.2615	0	none
+15501	14530	-	0	240544:Serinicoccus profundi MCCC 	Quinone oxidoreductase (EC 1.6.5.5)	fig|6666666.111529.peg.2616	0	none
+16624	15512	-	0	240544:Serinicoccus profundi MCCC 	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	fig|6666666.111529.peg.2617	0	none
+17043	16621	-	0	240544:Serinicoccus profundi MCCC 	putative response regulator	fig|6666666.111529.peg.2618	0	none
+17142	17819	+	0	240544:Serinicoccus profundi MCCC 	Cytochrome c oxidase polypeptide III (EC 1.9.3.1)	fig|6666666.111529.peg.2619	0	none
+17876	18679	+	0	240544:Serinicoccus profundi MCCC 	ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit	fig|6666666.111529.peg.2620	0	none
+18683	19783	+	0	240544:Serinicoccus profundi MCCC 	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	fig|6666666.111529.peg.2621	0	none
+19780	21588	+	0	240544:Serinicoccus profundi MCCC 	Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)	fig|6666666.111529.peg.2622	0	none
