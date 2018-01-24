@@ -1,0 +1,139 @@
+Kineosporia aurantiaca JCM 3230 JODP01 3285
+Nocardioides sp. URHA0032 JIAV01 3999
+Marmoricola sp. URHB0036 AUEP01 1673
+Nocardioides sp. JS614 NC 008699.1 161
+Marmoricola aequoreus JOJN01 3289
+Nocardioides halotolerans DSM 19273 AUGT01 1107
+Nocardioides sp. URHA0020 JIAR01 3102
+Nocardioides sp. CF8 ASEP01 3986
+Kribbella flavida DSM 17836 NC 013729.1 150
+Kribbella catacumbae DSM 19601 AQUZ01 3030
+Jiangella gansuensis DSM 44835 AZXT01 4792
+Actinopolymorpha alba DSM 45243 AREV01 4142
+Nocardioides alkalitolerans DSM 16699 AUFN01 3501
+Pimelobacter simplex strain VKM Ac-2033D NZ CP009896.1 5117
+Nocardioides luteus JZDQ01 3419
+Nocardioidaceae bacterium Broad-1 ADVI01 5013
+Nocardioides sp. UNC345MFTsu51 JQJL01 3012
+Nocardioides sp. J54 JAER01 1642
+Arsenicicoccus sp. oral taxon 190 NZ CP012070.1 2716
+Arsenicicoccus bolidensis DSM 15745 AUFG01 3537
+Ilumatobacter coccineus YM16-304 NC 020520.1 3903
+Tetrasphaera japonica T1-X7 CAJB01 377
+Dermacoccus sp. Ellin185 AEIQ01 588
+Dermacoccus nishinomiyaensis strain M25 NZ CP008889.1 1189
+Kineococcus radiotolerans SRS30216 = ATCC BAA-149 NC 0096642 3536
+Phycicoccus jejuensis JOEE01 1973
+Mobilicoccus sp. SIT2 CDGT01 382
+Mobilicoccus pelagius NBRC 104925 BAFE01 482
+Janibacter hoylei PVAS-1 ALWX01 464
+Serinicoccus profundi MCCC 1A05965 AFYF01 2612
+Serinicoccus marinus DSM 15273 ATWM01 1735
+Ornithinimicrobium pekingense DSM 21552 ATWJ01 1868
+Austwickia chelonae NBRC 105200 BAGZ01 2379
+Thermogemmatispora sp. PM5 JNIM01 1458
+Acidimicrobium ferrooxidans DSM 10331 NC 013124.1 1390
+Rubrobacter xylanophilus DSM 9941 NC 008148.1 1103
+Ilumatobacter coccineus YM16-304 NC 020520.1 1469
+Rubrobacter radiotolerans strain RSPS-4 NZ CP007514.1 1047
+Roseiflexus castenholzii NC 009767.1 2325
+Oscillochloris trichoides DG6 ADVR01 1090
+Chloroflexus aurantiacus J-10-fl NC 0101751 3926
+Chloroflexus aggregans DSM 9485 NC 0118311 212
+Nocardioides sp. Iso805N AQOZ01 719
+Knoellia subterranea KCTC 19937 AVPK01 2306
+Knoellia sinensis KCTC 19936 AVPJ01 2320
+Knoellia flava TL1 AVPI01 1722
+Janibacter sp. HTCC2649 AAMN01 1877
+Knoellia aerolata DSM 18566 AVPL01 1668
+Nocardioides insulae DSM 17944 AUGU01 85
+Terracoccus sp. 273MFTsu31 ARTT01 290
+Corynebacterium variabile NRRL B-4201 JOIN01 3878
+Intrasporangiaceae bacterium URHB0013 JIBA01 201
+Terrabacter sp. 28 JYOE01 633
+Intrasporangium calvum DSM 43043 NC 014830.1 2028
+Intrasporangium oryzae NRRL B-24470 AWSA01 1039
+Dermatophilus congolensis DSM 44180 = NBRC 105199 AUCS01 1811
+Actinobacteria bacterium IMCC26256 NZ CP011489.1 1376
+Propionibacterium thoenii DSM 20276 AUHZ01 811
+Propionibacterium jensenii 20535 AUDD01 2687
+Propionibacterium acidipropionici ATCC 4875 NC 0193951 3044
+Propionibacterium humerusii P08 AFAM01 969
+Propionibacterium acnes KPA171202 NC 0060851 2320
+Propionibacterium avidum ATCC 25577 AGBA01 1557
+Propionibacterium avidum 44067 NC 021064.1 2313
+Propionibacterium granulosum TM11 AOST01 1542
+Aestuariimicrobium kwangyangense DSM 21549 ATXE01 1831
+Kineosphaera limosa NBRC 100340 BAHD01 1438
+Granulicoccus phenolivorans DSM 17626 AUHH01 847
+Propionibacterium propionicum F0230a NC 0181421 311
+Propionibacterium freudenreichii subsp. shermanii CIRM-B1AI NC 0142151 118
+Propionibacterium acidifaciens DSM 21887 AUFR01 1678
+Microlunatus phosphovorus NM-1 NC 0156351 5071
+Brevibacterium massiliense 5401308 CAJD01 867
+Kytococcus sedentarius DSM 20547 NC 013169.1 1562
+Demetria terragena DSM 11295 AQXW01 556
+Brevibacterium sp. VCM10 JAJB01 1545
+Brevibacterium linens JTJZ01 2742
+Brevibacterium casei S18 AMSP01 3139
+Tetrasphaera jenkinsii Ben 74 CAJC01 239
+Luteipulveratus mongoliensis strain MN07-A0370 NZ CP011112.1 3446
+Nocardia takedensis NBRC 100417 BAGG01 4321
+Nocardia sp. W9851 JNFP01 6051
+Nocardia brasiliensis NBRC 14402 BAFT02 5731
+Nocardia brasiliensis ATCC 700358 NC 018681.1 2611
+Nocardia brasiliensis IFM 10847 BAUA01 5755
+Brevibacterium mcbrellneri ATCC 49030 ADNU01 772
+Aeromicrobium massiliense JC14 CAHG01 2335
+Aeromicrobium marinum DSM 15272 NZ CM001024.1 498
+Sporichthya polymorpha DSM 43042 AQZX01 2305
+Oscillochloris trichoides DG6 ADVR01 3531
+Brevibacterium senegalense CAHK01 2832
+Brevibacterium album DSM 18261 AUFJ01 1215
+Frankia sp. QA3 AJWA01 812
+Frankia alni str. ACN14A NC 008278.1 5502
+Frankia sp. EAN1pec NC 009921.1 1056
+Frankia sp. BCU110501 ARDT01 5967
+Frankia sp. BMG512 ARFH01 6036
+Frankia sp. CeD JPGU01 1227
+Frankia sp. CcI6 AYTZ01 319
+Frankia sp. BMG523 JDWE01 1376
+Frankia sp. Allo2 JPHT01 4016
+Frankia sp. CN3 AGJN02 6257
+Frankia symbiont of Datisca glomerata NC 015656.1 1521
+Nocardiopsis baichengensis YIM 90130 ANAS01 4609
+Streptacidiphilus albus JL83 JQML01 7759
+Streptomyces sp. NRRL WC-3742 JOCF01 4655
+Streptomyces sp. NRRL B-5680 JOGG01 6030
+Streptomyces avellaneus JOFK01 4737
+Streptomyces aureofaciens NRRL B-2657JOER01 6343
+Streptomyces aureofaciens NRRL B-1286 JNWR01 5370
+Streptomyces sp. NRRL B-24484 JOAI01 1705
+Streptomyces sp. NRRL S-350 JOHO01 4688
+Streptomyces pyridomyceticus JOAY01 5555
+Streptomyces novaecaesareae JNWQ01 4589
+Streptomyces sp. NRRL F-6131 JOHN01 1103
+Streptomyces purpeofuscus JODS01 6980
+Kitasatospora Sp. Mbt66 JAIY01 8453
+Streptacidiphilus neutrinimicus BBPO01 3530
+Streptacidiphilus melanogenes BBPP01 5424
+Streptacidiphilus anmyonensis BBPQ01 6253
+Streptomyces yerevanensis JNWJ01 9547
+Streptomyces sp. NRRL WC-3641 JOBM01 4012
+Streptomyces olindensis JJOH01 5148
+Streptomyces mirabilis JQLE01 2968
+Streptomyces Ipomoeae 91-03 AEJC01 5889
+Streptacidiphilus rugosus AM-16 JQMJ01 2727
+Streptomyces sp. NRRL S-1777 JOGY01 661
+Streptomyces sp. NRRL S-1777 JOGY01 3727
+Kitasatospora Mediocidica Kctc 9733 JQLN01 1674
+Streptacidiphilus melanogenes BBPP01 2401
+Streptacidiphilus albus JL83 JQML01 6796
+Kitasatospora sp. NRRL B-11411 JQMO01 5599
+Kitasatospora Sp. Mbt63 JAIZ01 4117
+Streptomyces sp. NRRL S-31 JOCB01 4914
+Streptomyces lavenduligriseus JOBD01 3108
+Streptomyces achromogenes subsp. achromogenes JODT01 3535
+Actinopolyspora erythraea JPMV01 2527
+Streptomyces lividans 1326 APVM01 7559
+Livipeptin GC0001168 EOY45603
