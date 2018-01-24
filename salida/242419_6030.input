@@ -1,4 +1,4 @@
-35085	35900	+	1	242419:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113155.peg.6030	0	other
+35085	35900	+	3	242419:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113155.peg.6030	0	other
 23355	22117	-	0	242419:Streptomyces sp. NRRL B-	lipase	fig|6666666.113155.peg.6020	7	other
 24040	23678	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6021	7	other
 24232	25203	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6022	7	other
@@ -8,7 +8,7 @@
 27645	27208	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6026	7	other
 28161	27907	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6027	7	other
 31531	28364	-	0	242419:Streptomyces sp. NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113155.peg.6028	7	other
-31912	35088	+	0	242419:Streptomyces sp. NRRL B-	Probable non ribosomal peptide synthetase protein	fig|6666666.113155.peg.6029	7	other
+31912	35088	+	2	242419:Streptomyces sp. NRRL B-	Probable non ribosomal peptide synthetase protein	fig|6666666.113155.peg.6029	7	other
 35979	37589	+	0	242419:Streptomyces sp. NRRL B-	Fe-S oxidoreductase	fig|6666666.113155.peg.6031	7	other
 38897	37665	-	0	242419:Streptomyces sp. NRRL B-	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.113155.peg.6032	7	other
 39122	39856	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6033	7	other

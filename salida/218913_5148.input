@@ -1,4 +1,4 @@
-13895	13104	-	1	218913:Streptomyces olindensis JJOH	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103278.peg.5148	0	nrps
+13895	13104	-	3	218913:Streptomyces olindensis JJOH	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103278.peg.5148	0	nrps
 940	206	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5138	7	nrps
 1570	1046	-	0	218913:Streptomyces olindensis JJOH	FIG01131549: hypothetical protein	fig|6666666.103278.peg.5139	7	nrps
 3451	1601	-	0	218913:Streptomyces olindensis JJOH	Phage tail sheath protein FI	fig|6666666.103278.peg.5140	7	nrps
@@ -9,7 +9,7 @@
 6535	8052	+	0	218913:Streptomyces olindensis JJOH	Aldehyde dehydrogenase (EC 1.2.1.3)	fig|6666666.103278.peg.5145	7	nrps
 9668	8127	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5146	7	nrps
 12430	9728	-	0	218913:Streptomyces olindensis JJOH	Sensory box histidine kinase/response regulator	fig|6666666.103278.peg.5147	7	nrps
-16939	13889	-	0	218913:Streptomyces olindensis JJOH	Non-ribosomal peptide synthetase	fig|6666666.103278.peg.5149	7	nrps
+16939	13889	-	2	218913:Streptomyces olindensis JJOH	Non-ribosomal peptide synthetase	fig|6666666.103278.peg.5149	7	nrps
 20428	17249	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5150	7	nrps
 21164	21024	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5151	7	nrps
 21711	21334	-	0	218913:Streptomyces olindensis JJOH	MerR-family transcriptional regulator	fig|6666666.103278.peg.5152	7	nrps

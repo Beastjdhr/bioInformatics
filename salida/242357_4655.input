@@ -1,4 +1,4 @@
-50404	51156	+	1	242357:Streptomyces sp. NRRL WC-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113093.peg.4655	0	other
+50404	51156	+	3	242357:Streptomyces sp. NRRL WC-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113093.peg.4655	0	other
 38770	39210	+	0	242357:Streptomyces sp. NRRL WC-	hypothetical protein	fig|6666666.113093.peg.4645	7	other
 40018	39290	-	0	242357:Streptomyces sp. NRRL WC-	hypothetical protein	fig|6666666.113093.peg.4646	7	other
 40518	40123	-	0	242357:Streptomyces sp. NRRL WC-	conserved hypothetical protein	fig|6666666.113093.peg.4647	7	other
@@ -8,7 +8,7 @@
 43317	42403	-	0	242357:Streptomyces sp. NRRL WC-	putative dehydrogenase	fig|6666666.113093.peg.4651	7	other
 43380	43757	+	0	242357:Streptomyces sp. NRRL WC-	Transcriptional regulator, HxlR family	fig|6666666.113093.peg.4652	7	other
 46948	43760	-	0	242357:Streptomyces sp. NRRL WC-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113093.peg.4653	7	other
-47183	50407	+	0	242357:Streptomyces sp. NRRL WC-	Non-ribosomal peptide synthetase	fig|6666666.113093.peg.4654	7	other
+47183	50407	+	2	242357:Streptomyces sp. NRRL WC-	Non-ribosomal peptide synthetase	fig|6666666.113093.peg.4654	7	other
 51223	52764	+	0	242357:Streptomyces sp. NRRL WC-	hypothetical protein	fig|6666666.113093.peg.4656	7	other
 52929	53660	+	0	242357:Streptomyces sp. NRRL WC-	Beta-lactamase (EC 3.5.2.6)	fig|6666666.113093.peg.4657	7	other
 53657	54250	+	0	242357:Streptomyces sp. NRRL WC-	NAD(P)H oxidoreductase YRKL (EC 1.6.99.-) @ Putative NADPH-quinone reductase (modulator of drug activity B) @ Flavodoxin 2	fig|6666666.113093.peg.4658	7	other

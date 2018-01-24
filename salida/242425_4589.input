@@ -1,4 +1,4 @@
-51089	50313	-	1	242425:Streptomyces novaecaesareae JNWQ	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113161.peg.4589	0	butyrolactone
+51089	50313	-	3	242425:Streptomyces novaecaesareae JNWQ	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113161.peg.4589	0	butyrolactone
 43299	43057	-	0	242425:Streptomyces novaecaesareae JNWQ	hypothetical protein	fig|6666666.113161.peg.4579	7	butyrolactone
 44174	43296	-	0	242425:Streptomyces novaecaesareae JNWQ	putative DNA-binding protein	fig|6666666.113161.peg.4580	7	butyrolactone
 44294	44752	+	0	242425:Streptomyces novaecaesareae JNWQ	putative regulatory protein	fig|6666666.113161.peg.4581	7	butyrolactone
@@ -9,7 +9,7 @@
 46786	46148	-	0	242425:Streptomyces novaecaesareae JNWQ	hypothetical protein	fig|6666666.113161.peg.4586	7	butyrolactone
 47244	46900	-	0	242425:Streptomyces novaecaesareae JNWQ	Glyoxalase family protein	fig|6666666.113161.peg.4587	7	butyrolactone
 50234	48645	-	0	242425:Streptomyces novaecaesareae JNWQ	alginate regulatory protein AlgP	fig|6666666.113161.peg.4588	7	butyrolactone
-54534	51295	-	0	242425:Streptomyces novaecaesareae JNWQ	Siderophore biosynthesis non-ribosomal peptide synthetase modules @ Bacillibactin synthetase component F (EC 2.7.7.-)	fig|6666666.113161.peg.4590	7	butyrolactone
+54534	51295	-	2	242425:Streptomyces novaecaesareae JNWQ	Siderophore biosynthesis non-ribosomal peptide synthetase modules @ Bacillibactin synthetase component F (EC 2.7.7.-)	fig|6666666.113161.peg.4590	7	butyrolactone
 54688	54500	-	0	242425:Streptomyces novaecaesareae JNWQ	hypothetical protein	fig|6666666.113161.peg.4591	7	butyrolactone
 54662	54790	+	0	242425:Streptomyces novaecaesareae JNWQ	hypothetical protein	fig|6666666.113161.peg.4592	7	butyrolactone
 54742	55188	+	0	242425:Streptomyces novaecaesareae JNWQ	hypothetical protein	fig|6666666.113161.peg.4593	7	butyrolactone

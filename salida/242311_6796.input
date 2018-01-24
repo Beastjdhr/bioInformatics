@@ -1,4 +1,4 @@
-7729215	7728400	-	1	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.6796	0	lantipeptide
+7729215	7728400	-	3	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.6796	0	lantipeptide
 7715471	7715232	-	0	242311:Streptacidiphilus albus JL	Transcriptional regulator of rhamnose utilization, DeoR family	fig|6666666.113047.peg.6786	7	lantipeptide
 7715879	7717186	+	0	242311:Streptacidiphilus albus JL	putative DNA-binding protein	fig|6666666.113047.peg.6787	7	lantipeptide
 7717179	7717994	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6788	7	lantipeptide
@@ -9,7 +9,7 @@
 7724259	7726409	+	0	242311:Streptacidiphilus albus JL	regulatory protein	fig|6666666.113047.peg.6793	7	lantipeptide
 7726787	7726536	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6794	7	lantipeptide
 7728332	7726854	-	0	242311:Streptacidiphilus albus JL	putative membrane transport protein	fig|6666666.113047.peg.6795	7	lantipeptide
-7732630	7729205	-	0	242311:Streptacidiphilus albus JL	Peptide synthetase	fig|6666666.113047.peg.6797	7	lantipeptide
+7732630	7729205	-	2	242311:Streptacidiphilus albus JL	Peptide synthetase	fig|6666666.113047.peg.6797	7	lantipeptide
 7735719	7732627	-	0	242311:Streptacidiphilus albus JL	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113047.peg.6798	7	lantipeptide
 7737004	7736123	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6799	7	lantipeptide
 7738179	7737001	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6800	7	lantipeptide

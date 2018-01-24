@@ -1,4 +1,4 @@
-164471	165256	+	1	240108:Actinopolyspora erythraea JPMV	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111166.peg.2527	0	other
+164471	165256	+	3	240108:Actinopolyspora erythraea JPMV	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111166.peg.2527	0	other
 150886	151974	+	0	240108:Actinopolyspora erythraea JPMV	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	fig|6666666.111166.peg.2517	7	other
 153144	152062	-	0	240108:Actinopolyspora erythraea JPMV	Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)	fig|6666666.111166.peg.2518	7	other
 154777	153170	-	0	240108:Actinopolyspora erythraea JPMV	Alpha-glucosidase (EC 3.2.1.20)	fig|6666666.111166.peg.2519	7	other
@@ -8,9 +8,9 @@
 159365	158358	-	0	240108:Actinopolyspora erythraea JPMV	Transcriptional regulator AglR, LacI family	fig|6666666.111166.peg.2523	7	other
 160353	159607	-	0	240108:Actinopolyspora erythraea JPMV	Lipoate-protein ligase A	fig|6666666.111166.peg.2524	7	other
 161429	161286	-	0	240108:Actinopolyspora erythraea JPMV	hypothetical protein	fig|6666666.111166.peg.2525	7	other
-161422	164463	+	0	240108:Actinopolyspora erythraea JPMV	Non-ribosomal peptide synthetase	fig|6666666.111166.peg.2526	7	other
-165298	166074	+	0	240108:Actinopolyspora erythraea JPMV	FIG01122158: hypothetical protein	fig|6666666.111166.peg.2528	7	other
-166153	167205	+	0	240108:Actinopolyspora erythraea JPMV	O-methyltransferase	fig|6666666.111166.peg.2529	7	other
+161422	164463	+	2	240108:Actinopolyspora erythraea JPMV	Non-ribosomal peptide synthetase	fig|6666666.111166.peg.2526	7	other
+165298	166074	+	4	240108:Actinopolyspora erythraea JPMV	FIG01122158: hypothetical protein	fig|6666666.111166.peg.2528	7	other
+166153	167205	+	6	240108:Actinopolyspora erythraea JPMV	O-methyltransferase	fig|6666666.111166.peg.2529	7	other
 167202	169001	+	0	240108:Actinopolyspora erythraea JPMV	Butyryl-CoA dehydrogenase (EC 1.3.99.2)	fig|6666666.111166.peg.2530	7	other
 168994	169659	+	0	240108:Actinopolyspora erythraea JPMV	hypothetical protein	fig|6666666.111166.peg.2531	7	other
 169911	171140	+	0	240108:Actinopolyspora erythraea JPMV	putative cytochrome P450 hydroxylase	fig|6666666.111166.peg.2532	7	other

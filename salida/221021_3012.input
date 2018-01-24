@@ -1,4 +1,4 @@
-446573	445809	-	1	221021:Nocardioides sp. UNC	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104654.peg.3012	0	none
+446573	445809	-	3	221021:Nocardioides sp. UNC	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104654.peg.3012	0	none
 435529	436035	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3002	7	cf_putative
 436032	437537	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3003	7	cf_putative
 439277	437649	-	0	221021:Nocardioides sp. UNC	COG0488: ATPase components of ABC transporters with duplicated ATPase domains	fig|6666666.104654.peg.3004	7	cf_putative

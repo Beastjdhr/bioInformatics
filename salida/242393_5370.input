@@ -1,4 +1,4 @@
-79432	80247	+	1	242393:Streptomyces aureofaciens NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113129.peg.5370	0	other
+79432	80247	+	3	242393:Streptomyces aureofaciens NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113129.peg.5370	0	other
 63862	64437	+	0	242393:Streptomyces aureofaciens NRRL B-	Tellurium resistance protein TerD	fig|6666666.113129.peg.5360	7	other
 65805	64501	-	0	242393:Streptomyces aureofaciens NRRL B-	putative monooxygenase	fig|6666666.113129.peg.5361	7	other
 66016	68058	+	0	242393:Streptomyces aureofaciens NRRL B-	2,4-dienoyl-CoA reductase [NADPH] (EC 1.3.1.34)	fig|6666666.113129.peg.5362	7	other
@@ -8,7 +8,7 @@
 71105	72076	+	0	242393:Streptomyces aureofaciens NRRL B-	hypothetical protein	fig|6666666.113129.peg.5366	7	other
 72094	72384	+	0	242393:Streptomyces aureofaciens NRRL B-	hypothetical protein	fig|6666666.113129.peg.5367	7	other
 75925	72659	-	0	242393:Streptomyces aureofaciens NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113129.peg.5368	7	other
-76262	79435	+	0	242393:Streptomyces aureofaciens NRRL B-	non-ribosomal peptide synthetase	fig|6666666.113129.peg.5369	7	other
+76262	79435	+	2	242393:Streptomyces aureofaciens NRRL B-	non-ribosomal peptide synthetase	fig|6666666.113129.peg.5369	7	other
 80326	81939	+	0	242393:Streptomyces aureofaciens NRRL B-	FIG083739: Putative secreted protein	fig|6666666.113129.peg.5371	7	other
 83242	82013	-	0	242393:Streptomyces aureofaciens NRRL B-	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.113129.peg.5372	7	other
 83868	84917	+	0	242393:Streptomyces aureofaciens NRRL B-	hypothetical protein	fig|6666666.113129.peg.5373	7	other

@@ -1,4 +1,4 @@
-78581	79351	+	1	242488:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113224.peg.1705	0	other
+78581	79351	+	3	242488:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113224.peg.1705	0	other
 62001	62354	+	0	242488:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113224.peg.1695	7	other
 62893	62402	-	0	242488:Streptomyces sp. NRRL B-	Transcriptional regulator, MarR family	fig|6666666.113224.peg.1696	7	other
 63089	64354	+	0	242488:Streptomyces sp. NRRL B-	Multidrug resistance transporter, Bcr/CflA family	fig|6666666.113224.peg.1697	7	other
@@ -8,7 +8,7 @@
 68784	70271	+	0	242488:Streptomyces sp. NRRL B-	putative metallopeptidase	fig|6666666.113224.peg.1701	7	other
 71953	70364	-	0	242488:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113224.peg.1702	7	other
 75165	72061	-	0	242488:Streptomyces sp. NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113224.peg.1703	7	other
-75588	78584	+	0	242488:Streptomyces sp. NRRL B-	putative non-ribosomal peptide synthetase	fig|6666666.113224.peg.1704	7	other
+75588	78584	+	2	242488:Streptomyces sp. NRRL B-	putative non-ribosomal peptide synthetase	fig|6666666.113224.peg.1704	7	other
 80101	79361	-	0	242488:Streptomyces sp. NRRL B-	Transcriptional regulator, ArsR family	fig|6666666.113224.peg.1706	7	other
 81393	80197	-	0	242488:Streptomyces sp. NRRL B-	sugar transporter family protein	fig|6666666.113224.peg.1707	7	other
 82745	81504	-	0	242488:Streptomyces sp. NRRL B-	FIG00761799: membrane protein	fig|6666666.113224.peg.1708	7	other

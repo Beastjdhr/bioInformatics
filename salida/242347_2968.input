@@ -1,4 +1,4 @@
-112766	113554	+	1	242347:Streptomyces mirabilis JQLE	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113083.peg.2968	0	cf_saccharide
+112766	113554	+	3	242347:Streptomyces mirabilis JQLE	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113083.peg.2968	0	cf_saccharide
 97794	95008	-	0	242347:Streptomyces mirabilis JQLE	Signal transduction histidine kinase	fig|6666666.113083.peg.2958	7	cf_saccharide
 97926	98954	+	0	242347:Streptomyces mirabilis JQLE	FIG01123301: hypothetical protein	fig|6666666.113083.peg.2959	7	cf_saccharide
 101092	98978	-	0	242347:Streptomyces mirabilis JQLE	two-component sensor histidine kinase	fig|6666666.113083.peg.2960	7	cf_saccharide
@@ -8,7 +8,7 @@
 104406	104047	-	0	242347:Streptomyces mirabilis JQLE	DNA-binding heavy metal response regulator	fig|6666666.113083.peg.2964	7	cf_saccharide
 105809	104619	-	0	242347:Streptomyces mirabilis JQLE	putative membrane prootein	fig|6666666.113083.peg.2965	7	cf_saccharide
 106236	109412	+	0	242347:Streptomyces mirabilis JQLE	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113083.peg.2966	7	cf_saccharide
-109485	112769	+	0	242347:Streptomyces mirabilis JQLE	PROBABLE PEPTIDE SYNTHETASE PROTEIN	fig|6666666.113083.peg.2967	7	cf_saccharide
+109485	112769	+	2	242347:Streptomyces mirabilis JQLE	PROBABLE PEPTIDE SYNTHETASE PROTEIN	fig|6666666.113083.peg.2967	7	cf_saccharide
 113855	114154	+	0	242347:Streptomyces mirabilis JQLE	hypothetical protein	fig|6666666.113083.peg.2969	7	cf_saccharide
 114741	114232	-	0	242347:Streptomyces mirabilis JQLE	SC8B7.06c, unknown, len: 152 aa	fig|6666666.113083.peg.2970	7	cf_saccharide
 115561	115019	-	0	242347:Streptomyces mirabilis JQLE	PROBABLE CONSERVED INTEGRAL MEMBRANE PROTEIN	fig|6666666.113083.peg.2971	7	cf_saccharide

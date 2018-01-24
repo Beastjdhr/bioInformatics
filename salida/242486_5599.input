@@ -1,4 +1,4 @@
-663674	662739	-	1	242486:Kitasatospora sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113222.peg.5599	0	other
+663674	662739	-	3	242486:Kitasatospora sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113222.peg.5599	0	other
 653331	654299	+	0	242486:Kitasatospora sp. NRRL B-	Protein containing domains DUF403	fig|6666666.113222.peg.5589	7	other
 654263	655147	+	0	242486:Kitasatospora sp. NRRL B-	Protein containing transglutaminase-like domain, putative cysteine protease	fig|6666666.113222.peg.5590	7	other
 656155	655265	-	0	242486:Kitasatospora sp. NRRL B-	PROBABLE O-METHYLTRANSFERASE OMT (EC 2.1.1.-)	fig|6666666.113222.peg.5591	7	other
@@ -9,7 +9,7 @@
 660467	660345	-	0	242486:Kitasatospora sp. NRRL B-	hypothetical protein	fig|6666666.113222.peg.5596	7	other
 661512	660526	-	0	242486:Kitasatospora sp. NRRL B-	Lysophospholipase (EC 3.1.1.5)	fig|6666666.113222.peg.5597	7	other
 662629	661622	-	0	242486:Kitasatospora sp. NRRL B-	Putative oxidoreductase YncB	fig|6666666.113222.peg.5598	7	other
-666763	663671	-	0	242486:Kitasatospora sp. NRRL B-	Peptide synthetase	fig|6666666.113222.peg.5600	7	other
+666763	663671	-	2	242486:Kitasatospora sp. NRRL B-	Peptide synthetase	fig|6666666.113222.peg.5600	7	other
 667235	670606	+	0	242486:Kitasatospora sp. NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113222.peg.5601	7	other
 671339	670665	-	0	242486:Kitasatospora sp. NRRL B-	sensor histidine kinase	fig|6666666.113222.peg.5602	7	other
 673867	671336	-	0	242486:Kitasatospora sp. NRRL B-	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	fig|6666666.113222.peg.5603	7	other

@@ -1,4 +1,4 @@
-298797	299570	+	1	242452:Kitasatospora Mediocidica Kctc 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113188.peg.1674	0	bacteriocin
+298797	299570	+	3	242452:Kitasatospora Mediocidica Kctc 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113188.peg.1674	0	bacteriocin
 284229	283405	-	0	242452:Kitasatospora Mediocidica Kctc 	D-aminopeptidase dipeptide-binding protein DppA (EC 3.4.11.-)	fig|6666666.113188.peg.1664	7	bacteriocin
 285148	284288	-	0	242452:Kitasatospora Mediocidica Kctc 	Transcriptional regulator, LysR family	fig|6666666.113188.peg.1665	7	bacteriocin
 285270	286325	+	0	242452:Kitasatospora Mediocidica Kctc 	Sodium - Bile acid symporter	fig|6666666.113188.peg.1666	7	bacteriocin
@@ -8,7 +8,7 @@
 291647	289419	-	0	242452:Kitasatospora Mediocidica Kctc 	FIG01133199: hypothetical protein	fig|6666666.113188.peg.1670	7	bacteriocin
 292018	291809	-	0	242452:Kitasatospora Mediocidica Kctc 	Precorrin-6A synthase (EC 2.1.1.152)	fig|6666666.113188.peg.1671	7	bacteriocin
 295226	292068	-	0	242452:Kitasatospora Mediocidica Kctc 	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113188.peg.1672	7	bacteriocin
-295657	298800	+	0	242452:Kitasatospora Mediocidica Kctc 	Non-ribosomal peptide synthetase	fig|6666666.113188.peg.1673	7	bacteriocin
+295657	298800	+	2	242452:Kitasatospora Mediocidica Kctc 	Non-ribosomal peptide synthetase	fig|6666666.113188.peg.1673	7	bacteriocin
 299861	299652	-	0	242452:Kitasatospora Mediocidica Kctc 	Cold shock protein CspC	fig|6666666.113188.peg.1675	7	bacteriocin
 300705	302774	+	0	242452:Kitasatospora Mediocidica Kctc 	putative sensor-like histidine kinase	fig|6666666.113188.peg.1676	7	bacteriocin
 302999	302781	-	0	242452:Kitasatospora Mediocidica Kctc 	FIG01126100: hypothetical protein	fig|6666666.113188.peg.1677	7	bacteriocin

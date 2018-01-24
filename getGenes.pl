@@ -12,11 +12,13 @@ GetOptions(
 #directory where the .input files will be written to:
 my $outputDir= "salida";
 #directory where the .txt are located:
-my $inputDir= "los1246";
+my $inputDir= "../los1246";
 #file path where the file matching genomes to rast numbers is located:
 my $actinosFile="$inputDir/Actinos.ids";
 #file from which genomes are retrieved:
 my $genomesFile= "$inputDir/LivipeptineHits";
+#blast file:
+my $blast= 'output.txt';
 
 #first, the genomes to retrieve must be stored in an array in order to
 #be macthed to their rast numbers
@@ -26,13 +28,13 @@ my @targetGenes= getGenes($genomesFile);
 my %genAndRast= matchGenomes($actinosFile, @targetGenes);
 
 #get the context of each gene:
-my @fileList=writeContexts($inputDir,$outputDir, $genL, $genR, \%genAndRast);
+my @fileList=writeContexts($inputDir,$outputDir, $genL, $genR, $blast, \%genAndRast);
 
 my $ls= join(',',@fileList);
 
-open F, ">>tList.txt" or die $!;
-print F $ls;
-close F;
+# open F, ">>tList.txt" or die $!;
+# print F $ls;
+# close F;
 #_________________________________SUBS__________________________________
 #this subroutine gets the genome and genes from which the contexts will be obtained
 # i= file where the genomes are stored
@@ -94,18 +96,25 @@ sub writeContexts {
   my $outPath= shift;
   my $left= shift;
   my $right= shift;
+  my $blastF= shift;
   my $genes= shift;
 
   my %genes= %$genes;
 
   my @list;
 
+  my $counter= keys %genes ;
+  $counter*= 10;
+
   foreach my $gen (keys %genes) {
+    print "$counter genes left\n";
+    $counter--;
     my @lines;
     #getting rast number:
     $genes{$gen}=~ m/(\d+)\.\./;
     my $rast= $1;
     my $txtFilePath= "$inPath/" . $rast . ".txt";
+
 
     #getting gene number:
     $gen=~ m/_(\d+)/;
@@ -118,7 +127,7 @@ sub writeContexts {
     my $orgName= $1;
 
     #getting central gen info and central contig;
-    $contig=getContext($txtFilePath, $geN, $contig, $orgName, \@lines);
+    $contig=getContext($txtFilePath, $geN, $contig, $orgName, $blastF, \@lines);
 
     #calculating genes from left and right:
     my $leftSide= $geN - $left;
@@ -132,7 +141,7 @@ sub writeContexts {
     my @edgeGenes= (@leftGenes, @rightGenes);
 
     foreach my $edgeGen (@edgeGenes) {
-      getContext($txtFilePath, $edgeGen, $contig, $orgName, \@lines);
+      getContext($txtFilePath, $edgeGen, $contig, $orgName, $blastF, \@lines);
     }
 
     #writing contexts in .input file:
@@ -159,6 +168,7 @@ sub getContext {
   my $gen= shift;
   my $contig= shift;
   my $org= shift;
+  my $blast= shift;
   my $out= shift;
 
 
@@ -184,12 +194,40 @@ sub getContext {
   my $genomeGen= $Genome . "." . $gen;
   my $none= 'none';
 
-  my $actinosMatch= `grep $genomeGen\t los1246/ActinoSMASH`;
+#extracting genes from blast query:
+my $blast_genes= `cut -f 1 $blast | uniq`;
+my @blast_genes= split/\n/, $blast_genes;
+my $blastSearch= ' ';
+#checking if gene is in blast file:
+$blastSearch= `grep "$fig" $blast`;
+if (length($blastSearch) > 2) {
+    my @cols= split/\t/, $blastSearch;
+    unless ( $cols[0] eq $cols[1]) {
+      if ($cols[0] eq $blast_genes[0]) {
+        $number= 1;
+      }
+      elsif ($cols[0] eq $blast_genes[1]) {
+        $number= 2;
+      }
+      elsif ($cols[0] eq $blast_genes[2]) {
+        $number= 3;
+      }
+      elsif ($cols[0] eq $blast_genes[3]) {
+        $number= 4;
+      }
+      elsif ($cols[0] eq $blast_genes[4]) {
+        $number= 6;
+      }
+    }
+  }
+
+# looking for gen functions:
+  my $actinosMatch= `grep $genomeGen\t ../los1246/ActinoSMASH`;
   my @parts= split/[\t\s]/, $actinosMatch;
-  my $function= '';
+  my $function= ' ';
   $function= $parts[2];
-  unless ($function eq '') {
-    print "function found: $function\n at $rast\n";
+  unless (length($function) < 2) {
+    # print "function found: $function\n at $rast\n";
     $none= $function;
     if (! looks_like_number($contig)) {
       $color2=7;
@@ -205,7 +243,7 @@ sub getContext {
 
 
   if (looks_like_number($contig)) {
-    print "$contig looks like number\n";
+    # print "$contig looks like number\n";
     return $cont;
   }
 }

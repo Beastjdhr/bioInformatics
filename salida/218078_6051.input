@@ -1,4 +1,4 @@
-6311	5574	-	1	218078:Nocardia sp. W	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.102797.peg.6051	0	none
+6311	5574	-	3	218078:Nocardia sp. W	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.102797.peg.6051	0	none
 825	196	-	0	218078:Nocardia sp. W	CDS_ID OB0353	fig|6666666.102797.peg.6044	7	cf_putative
 1754	1056	-	0	218078:Nocardia sp. W	putative nitroreductase family protein	fig|6666666.102797.peg.6045	7	cf_putative
 1859	2470	+	0	218078:Nocardia sp. W	Transcriptional regulator, TetR family	fig|6666666.102797.peg.6046	7	cf_putative

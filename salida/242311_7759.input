@@ -1,4 +1,4 @@
-8803990	8803214	-	1	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.7759	0	nrps
+8803990	8803214	-	3	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.7759	0	nrps
 8789795	8787429	-	0	242311:Streptacidiphilus albus JL	putative integral membrane protein	fig|6666666.113047.peg.7749	7	nrps
 8792753	8789994	-	0	242311:Streptacidiphilus albus JL	tetratricopeptide repeat family	fig|6666666.113047.peg.7750	7	nrps
 8793253	8792750	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.7751	7	nrps
@@ -11,8 +11,8 @@
 8802996	8800195	-	0	242311:Streptacidiphilus albus JL	LuxR-family transcriptional regulator	fig|6666666.113047.peg.7758	7	nrps
 8804271	8804056	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.7760	7	nrps
 8804660	8805628	+	0	242311:Streptacidiphilus albus JL	regulatory protein, LuxR	fig|6666666.113047.peg.7761	7	nrps
-8808403	8805743	-	0	242311:Streptacidiphilus albus JL	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.113047.peg.7762	7	nrps
-8814575	8808447	-	0	242311:Streptacidiphilus albus JL	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.113047.peg.7763	7	nrps
+8808403	8805743	-	2	242311:Streptacidiphilus albus JL	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.113047.peg.7762	7	nrps
+8814575	8808447	-	2	242311:Streptacidiphilus albus JL	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.113047.peg.7763	7	nrps
 8814817	8815257	+	0	242311:Streptacidiphilus albus JL	Glutamate mutase S-chain	fig|6666666.113047.peg.7764	7	nrps
 8815244	8816542	+	0	242311:Streptacidiphilus albus JL	Methylaspartate mutase, E subunit (EC 5.4.99.1)	fig|6666666.113047.peg.7765	7	nrps
 8816551	8817564	+	0	242311:Streptacidiphilus albus JL	Asparagine--tRNA ligase related protein	fig|6666666.113047.peg.7766	7	nrps
