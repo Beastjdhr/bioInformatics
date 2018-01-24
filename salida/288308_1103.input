@@ -1,21 +1,21 @@
-1109419	1109994	+	3	288308:Rubrobacter xylanophilus DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.147165.peg.1103	0	cf_fatty_acid
+1109419	1109994	+	1	288308:Rubrobacter xylanophilus DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.147165.peg.1103	0	cf_fatty_acid
 1101109	1101327	+	0	288308:Rubrobacter xylanophilus DSM 	hypothetical protein	fig|6666666.147165.peg.1093	0	none
 1101349	1101975	+	0	288308:Rubrobacter xylanophilus DSM 	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), ADP-binding subunit DhaL	fig|6666666.147165.peg.1094	0	none
 1101977	1102372	+	0	288308:Rubrobacter xylanophilus DSM 	Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM; DHA-specific IIA component	fig|6666666.147165.peg.1095	0	none
 1102485	1104155	+	0	288308:Rubrobacter xylanophilus DSM 	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	fig|6666666.147165.peg.1096	0	none
-1104275	1104784	+	0	288308:Rubrobacter xylanophilus DSM 	Rubrerythrin	fig|6666666.147165.peg.1097	7	cf_fatty_acid
-1104881	1105804	+	0	288308:Rubrobacter xylanophilus DSM 	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases	fig|6666666.147165.peg.1098	7	cf_fatty_acid
-1106044	1107231	+	0	288308:Rubrobacter xylanophilus DSM 	Magnesium and cobalt efflux protein CorC	fig|6666666.147165.peg.1099	7	cf_fatty_acid
-1107265	1108092	+	0	288308:Rubrobacter xylanophilus DSM 	Uncharacterized protein	fig|6666666.147165.peg.1100	7	cf_fatty_acid
-1108089	1108415	+	0	288308:Rubrobacter xylanophilus DSM 	hypothetical protein	fig|6666666.147165.peg.1101	7	cf_fatty_acid
-1108412	1109407	+	0	288308:Rubrobacter xylanophilus DSM 	Hypothetical protein of L-Asparaginase type 2-like superfamily	fig|6666666.147165.peg.1102	7	cf_fatty_acid
-1110176	1111075	+	0	288308:Rubrobacter xylanophilus DSM 	PFIG00823557: AC2 (Proteasome assembly chaperone) family	fig|6666666.147165.peg.1104	7	cf_fatty_acid
-1111634	1111095	-	0	288308:Rubrobacter xylanophilus DSM 	probable membrane protein NMA1128	fig|6666666.147165.peg.1105	7	cf_fatty_acid
-1112481	1111642	-	0	288308:Rubrobacter xylanophilus DSM 	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	fig|6666666.147165.peg.1106	7	cf_fatty_acid
-1113062	1112478	-	0	288308:Rubrobacter xylanophilus DSM 	Alkyl hydroperoxide reductase subunit C-like protein	fig|6666666.147165.peg.1107	7	cf_fatty_acid
-1114305	1113064	-	0	288308:Rubrobacter xylanophilus DSM 	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)	fig|6666666.147165.peg.1108	7	cf_fatty_acid
-1114448	1114762	+	0	288308:Rubrobacter xylanophilus DSM 	hypothetical protein	fig|6666666.147165.peg.1109	7	cf_fatty_acid
-1114766	1115584	+	0	288308:Rubrobacter xylanophilus DSM 	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	fig|6666666.147165.peg.1110	7	cf_fatty_acid
-1115581	1116624	+	0	288308:Rubrobacter xylanophilus DSM 	Type III polyketide sythase producing alkylpyrones (B. subtilis BpsA)	fig|6666666.147165.peg.1111	7	cf_fatty_acid
-1116636	1117136	+	0	288308:Rubrobacter xylanophilus DSM 	Alkylpyrone O-methyltransferase (B. subtilis BpsB)	fig|6666666.147165.peg.1112	7	cf_fatty_acid
-1117182	1118456	+	0	288308:Rubrobacter xylanophilus DSM 	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|6666666.147165.peg.1113	7	cf_fatty_acid
+1104275	1104784	+	0	288308:Rubrobacter xylanophilus DSM 	Rubrerythrin	fig|6666666.147165.peg.1097	0	cf_fatty_acid
+1104881	1105804	+	0	288308:Rubrobacter xylanophilus DSM 	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases	fig|6666666.147165.peg.1098	0	cf_fatty_acid
+1106044	1107231	+	0	288308:Rubrobacter xylanophilus DSM 	Magnesium and cobalt efflux protein CorC	fig|6666666.147165.peg.1099	0	cf_fatty_acid
+1107265	1108092	+	0	288308:Rubrobacter xylanophilus DSM 	Uncharacterized protein	fig|6666666.147165.peg.1100	0	cf_fatty_acid
+1108089	1108415	+	0	288308:Rubrobacter xylanophilus DSM 	hypothetical protein	fig|6666666.147165.peg.1101	0	cf_fatty_acid
+1108412	1109407	+	0	288308:Rubrobacter xylanophilus DSM 	Hypothetical protein of L-Asparaginase type 2-like superfamily	fig|6666666.147165.peg.1102	0	cf_fatty_acid
+1110176	1111075	+	0	288308:Rubrobacter xylanophilus DSM 	PFIG00823557: AC2 (Proteasome assembly chaperone) family	fig|6666666.147165.peg.1104	0	cf_fatty_acid
+1111634	1111095	-	0	288308:Rubrobacter xylanophilus DSM 	probable membrane protein NMA1128	fig|6666666.147165.peg.1105	0	cf_fatty_acid
+1112481	1111642	-	0	288308:Rubrobacter xylanophilus DSM 	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	fig|6666666.147165.peg.1106	0	cf_fatty_acid
+1113062	1112478	-	0	288308:Rubrobacter xylanophilus DSM 	Alkyl hydroperoxide reductase subunit C-like protein	fig|6666666.147165.peg.1107	0	cf_fatty_acid
+1114305	1113064	-	0	288308:Rubrobacter xylanophilus DSM 	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)	fig|6666666.147165.peg.1108	0	cf_fatty_acid
+1114448	1114762	+	0	288308:Rubrobacter xylanophilus DSM 	hypothetical protein	fig|6666666.147165.peg.1109	0	cf_fatty_acid
+1114766	1115584	+	0	288308:Rubrobacter xylanophilus DSM 	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	fig|6666666.147165.peg.1110	0	cf_fatty_acid
+1115581	1116624	+	0	288308:Rubrobacter xylanophilus DSM 	Type III polyketide sythase producing alkylpyrones (B. subtilis BpsA)	fig|6666666.147165.peg.1111	0	cf_fatty_acid
+1116636	1117136	+	0	288308:Rubrobacter xylanophilus DSM 	Alkylpyrone O-methyltransferase (B. subtilis BpsB)	fig|6666666.147165.peg.1112	0	cf_fatty_acid
+1117182	1118456	+	0	288308:Rubrobacter xylanophilus DSM 	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|6666666.147165.peg.1113	0	cf_fatty_acid

@@ -1,21 +1,21 @@
-35085	35900	+	3	242419:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113155.peg.6030	0	other
-23355	22117	-	0	242419:Streptomyces sp. NRRL B-	lipase	fig|6666666.113155.peg.6020	7	other
-24040	23678	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6021	7	other
-24232	25203	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6022	7	other
-26553	25267	-	0	242419:Streptomyces sp. NRRL B-	FIG01124500: hypothetical protein	fig|6666666.113155.peg.6023	7	other
-26573	26704	+	0	242419:Streptomyces sp. NRRL B-	Transcriptional regulator, ArsR family	fig|6666666.113155.peg.6024	7	other
-27129	26773	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6025	7	other
-27645	27208	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6026	7	other
-28161	27907	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6027	7	other
-31531	28364	-	0	242419:Streptomyces sp. NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113155.peg.6028	7	other
-31912	35088	+	2	242419:Streptomyces sp. NRRL B-	Probable non ribosomal peptide synthetase protein	fig|6666666.113155.peg.6029	7	other
-35979	37589	+	0	242419:Streptomyces sp. NRRL B-	Fe-S oxidoreductase	fig|6666666.113155.peg.6031	7	other
-38897	37665	-	0	242419:Streptomyces sp. NRRL B-	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.113155.peg.6032	7	other
-39122	39856	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6033	7	other
-40176	41225	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6034	7	other
-41872	42057	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein SC4G2.04	fig|6666666.113155.peg.6035	7	other
-42192	42902	+	0	242419:Streptomyces sp. NRRL B-	Beta-lactamase (EC 3.5.2.6)	fig|6666666.113155.peg.6036	7	other
-43335	42889	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6037	7	other
-44533	43397	-	0	242419:Streptomyces sp. NRRL B-	Salicylate hydroxylase (EC 1.14.13.1)	fig|6666666.113155.peg.6038	7	other
-45198	44599	-	0	242419:Streptomyces sp. NRRL B-	Putative ATP/GTP-binding protein	fig|6666666.113155.peg.6039	7	other
-45753	45202	-	0	242419:Streptomyces sp. NRRL B-	multi-component regulatory system-11	fig|6666666.113155.peg.6040	7	other
+35085	35900	+	1	242419:Streptomyces sp. NRRL B-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113155.peg.6030	0	other
+23355	22117	-	0	242419:Streptomyces sp. NRRL B-	lipase	fig|6666666.113155.peg.6020	0	other
+24040	23678	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6021	0	other
+24232	25203	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6022	0	other
+26553	25267	-	0	242419:Streptomyces sp. NRRL B-	FIG01124500: hypothetical protein	fig|6666666.113155.peg.6023	0	other
+26573	26704	+	0	242419:Streptomyces sp. NRRL B-	Transcriptional regulator, ArsR family	fig|6666666.113155.peg.6024	0	other
+27129	26773	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6025	0	other
+27645	27208	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6026	0	other
+28161	27907	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6027	0	other
+31531	28364	-	0	242419:Streptomyces sp. NRRL B-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113155.peg.6028	0	other
+31912	35088	+	2	242419:Streptomyces sp. NRRL B-	Probable non ribosomal peptide synthetase protein	fig|6666666.113155.peg.6029	45.15	other
+35979	37589	+	0	242419:Streptomyces sp. NRRL B-	Fe-S oxidoreductase	fig|6666666.113155.peg.6031	0	other
+38897	37665	-	0	242419:Streptomyces sp. NRRL B-	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.113155.peg.6032	0	other
+39122	39856	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6033	0	other
+40176	41225	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6034	0	other
+41872	42057	+	0	242419:Streptomyces sp. NRRL B-	hypothetical protein SC4G2.04	fig|6666666.113155.peg.6035	0	other
+42192	42902	+	0	242419:Streptomyces sp. NRRL B-	Beta-lactamase (EC 3.5.2.6)	fig|6666666.113155.peg.6036	0	other
+43335	42889	-	0	242419:Streptomyces sp. NRRL B-	hypothetical protein	fig|6666666.113155.peg.6037	0	other
+44533	43397	-	0	242419:Streptomyces sp. NRRL B-	Salicylate hydroxylase (EC 1.14.13.1)	fig|6666666.113155.peg.6038	0	other
+45198	44599	-	0	242419:Streptomyces sp. NRRL B-	Putative ATP/GTP-binding protein	fig|6666666.113155.peg.6039	0	other
+45753	45202	-	0	242419:Streptomyces sp. NRRL B-	multi-component regulatory system-11	fig|6666666.113155.peg.6040	0	other

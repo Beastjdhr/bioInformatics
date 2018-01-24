@@ -1,21 +1,21 @@
-21315	22244	+	3	242397:Streptomyces sp. NRRL F-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113133.peg.1103	0	other
-8663	9790	+	0	242397:Streptomyces sp. NRRL F-	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)	fig|6666666.113133.peg.1093	7	other
-9940	10914	+	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1094	7	other
-11519	11019	-	0	242397:Streptomyces sp. NRRL F-	acetyltransferase	fig|6666666.113133.peg.1095	7	other
-11759	11550	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1096	7	other
-11736	12227	+	0	242397:Streptomyces sp. NRRL F-	calcium binding protein	fig|6666666.113133.peg.1097	7	other
-13372	12335	-	0	242397:Streptomyces sp. NRRL F-	Oxidoreductase	fig|6666666.113133.peg.1098	7	other
-13540	14136	+	0	242397:Streptomyces sp. NRRL F-	Transcriptional regulator, TetR family	fig|6666666.113133.peg.1099	7	other
-17368	14180	-	0	242397:Streptomyces sp. NRRL F-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113133.peg.1100	7	other
-17643	17389	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1101	7	other
-17647	21318	+	2	242397:Streptomyces sp. NRRL F-	non-ribosomal peptide synthetase	fig|6666666.113133.peg.1102	7	other
-22309	23112	+	0	242397:Streptomyces sp. NRRL F-	Beta-lactamase (EC 3.5.2.6)	fig|6666666.113133.peg.1104	7	other
-24618	23485	-	0	242397:Streptomyces sp. NRRL F-	Salicylate hydroxylase (EC 1.14.13.1)	fig|6666666.113133.peg.1105	7	other
-25294	24686	-	0	242397:Streptomyces sp. NRRL F-	Putative ATP/GTP-binding protein	fig|6666666.113133.peg.1106	7	other
-25729	25298	-	0	242397:Streptomyces sp. NRRL F-	multi-component regulatory system-11	fig|6666666.113133.peg.1107	7	other
-26168	25737	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1108	7	other
-29302	26165	-	0	242397:Streptomyces sp. NRRL F-	Putative sensor-like histidine kinase	fig|6666666.113133.peg.1109	7	other
-29962	29747	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1110	7	other
-29930	32350	+	0	242397:Streptomyces sp. NRRL F-	2-isopropylmalate synthase (EC 2.3.3.13)	fig|6666666.113133.peg.1111	7	other
-32995	32423	-	0	242397:Streptomyces sp. NRRL F-	acetyltransferase	fig|6666666.113133.peg.1112	7	other
-34691	33309	-	0	242397:Streptomyces sp. NRRL F-	putative efflux protein	fig|6666666.113133.peg.1113	7	other
+21315	22244	+	1	242397:Streptomyces sp. NRRL F-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113133.peg.1103	0	other
+8663	9790	+	0	242397:Streptomyces sp. NRRL F-	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)	fig|6666666.113133.peg.1093	0	other
+9940	10914	+	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1094	0	other
+11519	11019	-	0	242397:Streptomyces sp. NRRL F-	acetyltransferase	fig|6666666.113133.peg.1095	0	other
+11759	11550	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1096	0	other
+11736	12227	+	0	242397:Streptomyces sp. NRRL F-	calcium binding protein	fig|6666666.113133.peg.1097	0	other
+13372	12335	-	0	242397:Streptomyces sp. NRRL F-	Oxidoreductase	fig|6666666.113133.peg.1098	0	other
+13540	14136	+	0	242397:Streptomyces sp. NRRL F-	Transcriptional regulator, TetR family	fig|6666666.113133.peg.1099	0	other
+17368	14180	-	0	242397:Streptomyces sp. NRRL F-	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113133.peg.1100	0	other
+17643	17389	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1101	0	other
+17647	21318	+	2	242397:Streptomyces sp. NRRL F-	non-ribosomal peptide synthetase	fig|6666666.113133.peg.1102	41.30	other
+22309	23112	+	0	242397:Streptomyces sp. NRRL F-	Beta-lactamase (EC 3.5.2.6)	fig|6666666.113133.peg.1104	0	other
+24618	23485	-	0	242397:Streptomyces sp. NRRL F-	Salicylate hydroxylase (EC 1.14.13.1)	fig|6666666.113133.peg.1105	0	other
+25294	24686	-	0	242397:Streptomyces sp. NRRL F-	Putative ATP/GTP-binding protein	fig|6666666.113133.peg.1106	0	other
+25729	25298	-	0	242397:Streptomyces sp. NRRL F-	multi-component regulatory system-11	fig|6666666.113133.peg.1107	0	other
+26168	25737	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1108	0	other
+29302	26165	-	0	242397:Streptomyces sp. NRRL F-	Putative sensor-like histidine kinase	fig|6666666.113133.peg.1109	0	other
+29962	29747	-	0	242397:Streptomyces sp. NRRL F-	hypothetical protein	fig|6666666.113133.peg.1110	0	other
+29930	32350	+	0	242397:Streptomyces sp. NRRL F-	2-isopropylmalate synthase (EC 2.3.3.13)	fig|6666666.113133.peg.1111	0	other
+32995	32423	-	0	242397:Streptomyces sp. NRRL F-	acetyltransferase	fig|6666666.113133.peg.1112	0	other
+34691	33309	-	0	242397:Streptomyces sp. NRRL F-	putative efflux protein	fig|6666666.113133.peg.1113	0	other

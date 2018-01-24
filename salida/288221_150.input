@@ -1,9 +1,9 @@
-157622	158287	+	3	288221:Kribbella flavida DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.147081.peg.150	0	none
+157622	158287	+	1	288221:Kribbella flavida DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.147081.peg.150	0	none
 150606	151406	+	0	288221:Kribbella flavida DSM 	serine/threonine protein phosphatase	fig|6666666.147081.peg.140	0	none
 152536	151604	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.141	0	none
 152531	152839	+	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.142	0	none
-153801	153154	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.143	7	cf_saccharide
-153959	154885	+	0	288221:Kribbella flavida DSM 	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.147081.peg.144	7	cf_putative
+153801	153154	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.143	0	cf_saccharide
+153959	154885	+	0	288221:Kribbella flavida DSM 	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.147081.peg.144	0	cf_putative
 155256	154996	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.145	0	none
 155333	155557	+	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.146	0	none
 156004	155612	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.147	0	none
@@ -11,11 +11,11 @@
 156868	157572	+	0	288221:Kribbella flavida DSM 	beta-lactamase domain protein	fig|6666666.147081.peg.149	0	none
 158968	158267	-	0	288221:Kribbella flavida DSM 	Transcriptional regulator, TetR family	fig|6666666.147081.peg.151	0	none
 159086	159547	+	0	288221:Kribbella flavida DSM 	FIG01121461: hypothetical protein	fig|6666666.147081.peg.152	0	none
-159638	160714	+	0	288221:Kribbella flavida DSM 	Adenosine deaminase (EC 3.5.4.4)	fig|6666666.147081.peg.153	7	cf_putative
-160754	161308	+	0	288221:Kribbella flavida DSM 	Sigma-70 region 2:Sigma-70 region 4	fig|6666666.147081.peg.154	7	cf_putative
-161305	161991	+	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.155	7	cf_putative
-162977	162024	-	0	288221:Kribbella flavida DSM 	Transcriptional regulator, AraC family	fig|6666666.147081.peg.156	7	cf_putative
+159638	160714	+	0	288221:Kribbella flavida DSM 	Adenosine deaminase (EC 3.5.4.4)	fig|6666666.147081.peg.153	0	cf_putative
+160754	161308	+	0	288221:Kribbella flavida DSM 	Sigma-70 region 2:Sigma-70 region 4	fig|6666666.147081.peg.154	0	cf_putative
+161305	161991	+	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.155	0	cf_putative
+162977	162024	-	0	288221:Kribbella flavida DSM 	Transcriptional regulator, AraC family	fig|6666666.147081.peg.156	0	cf_putative
 163061	163330	+	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.157	0	none
-163398	164225	+	0	288221:Kribbella flavida DSM 	FIG00953695: hypothetical protein	fig|6666666.147081.peg.158	7	cf_putative
-164433	164290	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.159	7	cf_putative
-164601	165464	+	0	288221:Kribbella flavida DSM 	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	fig|6666666.147081.peg.160	7	cf_putative
+163398	164225	+	0	288221:Kribbella flavida DSM 	FIG00953695: hypothetical protein	fig|6666666.147081.peg.158	0	cf_putative
+164433	164290	-	0	288221:Kribbella flavida DSM 	hypothetical protein	fig|6666666.147081.peg.159	0	cf_putative
+164601	165464	+	0	288221:Kribbella flavida DSM 	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	fig|6666666.147081.peg.160	0	cf_putative

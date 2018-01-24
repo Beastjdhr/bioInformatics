@@ -1,21 +1,21 @@
-7729215	7728400	-	3	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.6796	0	lantipeptide
-7715471	7715232	-	0	242311:Streptacidiphilus albus JL	Transcriptional regulator of rhamnose utilization, DeoR family	fig|6666666.113047.peg.6786	7	lantipeptide
-7715879	7717186	+	0	242311:Streptacidiphilus albus JL	putative DNA-binding protein	fig|6666666.113047.peg.6787	7	lantipeptide
-7717179	7717994	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6788	7	lantipeptide
-7717991	7719970	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6789	7	lantipeptide
-7720021	7721115	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6790	7	lantipeptide
-7721225	7722109	+	0	242311:Streptacidiphilus albus JL	FIG01125854: hypothetical protein	fig|6666666.113047.peg.6791	7	lantipeptide
-7722784	7722365	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6792	7	lantipeptide
-7724259	7726409	+	0	242311:Streptacidiphilus albus JL	regulatory protein	fig|6666666.113047.peg.6793	7	lantipeptide
-7726787	7726536	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6794	7	lantipeptide
-7728332	7726854	-	0	242311:Streptacidiphilus albus JL	putative membrane transport protein	fig|6666666.113047.peg.6795	7	lantipeptide
-7732630	7729205	-	2	242311:Streptacidiphilus albus JL	Peptide synthetase	fig|6666666.113047.peg.6797	7	lantipeptide
-7735719	7732627	-	0	242311:Streptacidiphilus albus JL	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113047.peg.6798	7	lantipeptide
-7737004	7736123	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6799	7	lantipeptide
-7738179	7737001	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6800	7	lantipeptide
-7740119	7738176	-	0	242311:Streptacidiphilus albus JL	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	fig|6666666.113047.peg.6801	7	lantipeptide
-7740787	7740116	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6802	7	lantipeptide
-7742511	7740784	-	0	242311:Streptacidiphilus albus JL	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	fig|6666666.113047.peg.6803	7	lantipeptide
-7742485	7742613	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6804	7	lantipeptide
-7745687	7742745	-	0	242311:Streptacidiphilus albus JL	LuxR-family transcriptional regulator	fig|6666666.113047.peg.6805	7	lantipeptide
-7746026	7745823	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6806	7	lantipeptide
+7729215	7728400	-	1	242311:Streptacidiphilus albus JL	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113047.peg.6796	0	lantipeptide
+7715471	7715232	-	0	242311:Streptacidiphilus albus JL	Transcriptional regulator of rhamnose utilization, DeoR family	fig|6666666.113047.peg.6786	0	lantipeptide
+7715879	7717186	+	0	242311:Streptacidiphilus albus JL	putative DNA-binding protein	fig|6666666.113047.peg.6787	0	lantipeptide
+7717179	7717994	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6788	0	lantipeptide
+7717991	7719970	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6789	0	lantipeptide
+7720021	7721115	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6790	0	lantipeptide
+7721225	7722109	+	0	242311:Streptacidiphilus albus JL	FIG01125854: hypothetical protein	fig|6666666.113047.peg.6791	0	lantipeptide
+7722784	7722365	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6792	0	lantipeptide
+7724259	7726409	+	0	242311:Streptacidiphilus albus JL	regulatory protein	fig|6666666.113047.peg.6793	0	lantipeptide
+7726787	7726536	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6794	0	lantipeptide
+7728332	7726854	-	0	242311:Streptacidiphilus albus JL	putative membrane transport protein	fig|6666666.113047.peg.6795	0	lantipeptide
+7732630	7729205	-	2	242311:Streptacidiphilus albus JL	Peptide synthetase	fig|6666666.113047.peg.6797	44.95	lantipeptide
+7735719	7732627	-	0	242311:Streptacidiphilus albus JL	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.113047.peg.6798	0	lantipeptide
+7737004	7736123	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6799	0	lantipeptide
+7738179	7737001	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6800	0	lantipeptide
+7740119	7738176	-	0	242311:Streptacidiphilus albus JL	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	fig|6666666.113047.peg.6801	0	lantipeptide
+7740787	7740116	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6802	0	lantipeptide
+7742511	7740784	-	0	242311:Streptacidiphilus albus JL	Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	fig|6666666.113047.peg.6803	0	lantipeptide
+7742485	7742613	+	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6804	0	lantipeptide
+7745687	7742745	-	0	242311:Streptacidiphilus albus JL	LuxR-family transcriptional regulator	fig|6666666.113047.peg.6805	0	lantipeptide
+7746026	7745823	-	0	242311:Streptacidiphilus albus JL	hypothetical protein	fig|6666666.113047.peg.6806	0	lantipeptide

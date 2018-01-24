@@ -1,4 +1,4 @@
-133395	132670	-	3	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104280.peg.118	0	none
+133395	132670	-	1	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104280.peg.118	0	none
 124208	124552	+	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Mobile element protein	fig|6666666.104280.peg.108	0	none
 124549	125457	+	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Mobile element protein	fig|6666666.104280.peg.109	0	none
 126104	125742	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Mobile element protein	fig|6666666.104280.peg.110	0	none
@@ -15,7 +15,7 @@
 139026	139829	+	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	FIG00945254: hypothetical protein	fig|6666666.104280.peg.122	0	none
 140773	139940	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	hypothetical protein	fig|6666666.104280.peg.123	0	none
 142493	140988	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	putative secreted serine protease	fig|6666666.104280.peg.124	0	none
-143762	142614	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Alanine racemase (EC 5.1.1.1)	fig|6666666.104280.peg.125	7	cf_fatty_acid
-143745	143858	+	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	hypothetical protein	fig|6666666.104280.peg.126	7	cf_putative
-145488	143935	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	fig|6666666.104280.peg.127	7	cf_putative
+143762	142614	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Alanine racemase (EC 5.1.1.1)	fig|6666666.104280.peg.125	0	cf_fatty_acid
+143745	143858	+	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	hypothetical protein	fig|6666666.104280.peg.126	0	cf_putative
+145488	143935	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	fig|6666666.104280.peg.127	0	cf_putative
 145876	145532	-	0	220569:Propionibacterium freudenreichii subsp. shermanii CIRM-B	transcription regulator	fig|6666666.104280.peg.128	0	none

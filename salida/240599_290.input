@@ -1,4 +1,4 @@
-209778	210452	+	3	240599:Terracoccus sp. 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111584.peg.290	0	none
+209778	210452	+	1	240599:Terracoccus sp. 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.111584.peg.290	0	none
 200453	199872	-	0	240599:Terracoccus sp. 	Protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)	fig|6666666.111584.peg.280	0	none
 201333	200524	-	0	240599:Terracoccus sp. 	S-adenosylmethionine-dependent methyltransferase Functionally Coupled to the MukBEF Chromosome Partitioning Mechanism	fig|6666666.111584.peg.281	0	none
 201450	202820	+	0	240599:Terracoccus sp. 	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	fig|6666666.111584.peg.282	0	none
@@ -18,4 +18,4 @@
 216713	216150	-	0	240599:Terracoccus sp. 	hypothetical protein	fig|6666666.111584.peg.297	0	none
 218651	216888	-	0	240599:Terracoccus sp. 	Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)	fig|6666666.111584.peg.298	0	none
 219757	218648	-	0	240599:Terracoccus sp. 	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)	fig|6666666.111584.peg.299	0	none
-220616	219807	-	0	240599:Terracoccus sp. 	ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit	fig|6666666.111584.peg.300	7	cf_saccharide
+220616	219807	-	0	240599:Terracoccus sp. 	ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit	fig|6666666.111584.peg.300	0	cf_saccharide

@@ -1,9 +1,9 @@
-446573	445809	-	3	221021:Nocardioides sp. UNC	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104654.peg.3012	0	none
-435529	436035	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3002	7	cf_putative
-436032	437537	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3003	7	cf_putative
-439277	437649	-	0	221021:Nocardioides sp. UNC	COG0488: ATPase components of ABC transporters with duplicated ATPase domains	fig|6666666.104654.peg.3004	7	cf_putative
-440201	439560	-	0	221021:Nocardioides sp. UNC	FIG025093: Probable membrane protein	fig|6666666.104654.peg.3005	7	cf_putative
-441415	440222	-	0	221021:Nocardioides sp. UNC	COG family: RecA-superfamily ATPases implicated in signal transduction	fig|6666666.104654.peg.3006	7	cf_putative
+446573	445809	-	1	221021:Nocardioides sp. UNC	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104654.peg.3012	0	none
+435529	436035	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3002	0	cf_putative
+436032	437537	+	0	221021:Nocardioides sp. UNC	Cyclohexanone monooxygenase (EC 1.14.13.22)	fig|6666666.104654.peg.3003	0	cf_putative
+439277	437649	-	0	221021:Nocardioides sp. UNC	COG0488: ATPase components of ABC transporters with duplicated ATPase domains	fig|6666666.104654.peg.3004	0	cf_putative
+440201	439560	-	0	221021:Nocardioides sp. UNC	FIG025093: Probable membrane protein	fig|6666666.104654.peg.3005	0	cf_putative
+441415	440222	-	0	221021:Nocardioides sp. UNC	COG family: RecA-superfamily ATPases implicated in signal transduction	fig|6666666.104654.peg.3006	0	cf_putative
 442190	441480	-	0	221021:Nocardioides sp. UNC	putative lipoprotein	fig|6666666.104654.peg.3007	0	none
 443578	442217	-	0	221021:Nocardioides sp. UNC	hypothetical protein	fig|6666666.104654.peg.3008	0	none
 443722	444600	+	0	221021:Nocardioides sp. UNC	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	fig|6666666.104654.peg.3009	0	none

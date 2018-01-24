@@ -1,4 +1,4 @@
-2854796	2854059	-	3	262869:Nocardia brasiliensis ATCC 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|1133849.7.peg.2611	0	none
+2854796	2854059	-	1	262869:Nocardia brasiliensis ATCC 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|1133849.7.peg.2611	0	none
 2846476	2845985	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2601	0	none
 2846441	2847925	+	0	262869:Nocardia brasiliensis ATCC 	actinorhodin transporter	fig|1133849.7.peg.2602	0	none
 2848534	2847944	-	0	262869:Nocardia brasiliensis ATCC 	Transcriptional regulator, TetR family	fig|1133849.7.peg.2603	0	none
@@ -9,13 +9,13 @@
 2852322	2852774	+	0	262869:Nocardia brasiliensis ATCC 	Transcriptional regulator, MarR family	fig|1133849.7.peg.2608	0	none
 2853054	2853467	+	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2609	0	none
 2853826	2853509	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2610	0	none
-2855014	2857215	+	0	262869:Nocardia brasiliensis ATCC 	putative serine/threonine protein kinase	fig|1133849.7.peg.2612	7	cf_putative
-2857346	2858113	+	0	262869:Nocardia brasiliensis ATCC 	transcriptional regulator, MerR family	fig|1133849.7.peg.2613	7	cf_putative
-2859160	2858264	-	0	262869:Nocardia brasiliensis ATCC 	aminoglycoside phosphotransferase	fig|1133849.7.peg.2614	7	cf_putative
-2860800	2859616	-	0	262869:Nocardia brasiliensis ATCC 	monooxygenase, FAD-binding	fig|1133849.7.peg.2615	7	cf_putative
-2861250	2860996	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2616	7	cf_putative
-2862617	2861445	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2617	7	cf_putative
-2863130	2862630	-	0	262869:Nocardia brasiliensis ATCC 	Cinorf13 protein	fig|1133849.7.peg.2618	7	cf_putative
-2863460	2864176	+	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2619	7	cf_putative
-2864835	2864188	-	0	262869:Nocardia brasiliensis ATCC 	Ribosomal-protein-alanine acetyltransferase (EC 2.3.1.128)	fig|1133849.7.peg.2620	7	cf_putative
-2865514	2865014	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2621	7	cf_putative
+2855014	2857215	+	0	262869:Nocardia brasiliensis ATCC 	putative serine/threonine protein kinase	fig|1133849.7.peg.2612	0	cf_putative
+2857346	2858113	+	0	262869:Nocardia brasiliensis ATCC 	transcriptional regulator, MerR family	fig|1133849.7.peg.2613	0	cf_putative
+2859160	2858264	-	0	262869:Nocardia brasiliensis ATCC 	aminoglycoside phosphotransferase	fig|1133849.7.peg.2614	0	cf_putative
+2860800	2859616	-	0	262869:Nocardia brasiliensis ATCC 	monooxygenase, FAD-binding	fig|1133849.7.peg.2615	0	cf_putative
+2861250	2860996	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2616	0	cf_putative
+2862617	2861445	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2617	0	cf_putative
+2863130	2862630	-	0	262869:Nocardia brasiliensis ATCC 	Cinorf13 protein	fig|1133849.7.peg.2618	0	cf_putative
+2863460	2864176	+	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2619	0	cf_putative
+2864835	2864188	-	0	262869:Nocardia brasiliensis ATCC 	Ribosomal-protein-alanine acetyltransferase (EC 2.3.1.128)	fig|1133849.7.peg.2620	0	cf_putative
+2865514	2865014	-	0	262869:Nocardia brasiliensis ATCC 	hypothetical protein	fig|1133849.7.peg.2621	0	cf_putative

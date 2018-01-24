@@ -1,21 +1,21 @@
-268457	269053	+	3	219829:Chloroflexus aggregans DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103576.peg.212	0	none
-258173	257298	-	0	219829:Chloroflexus aggregans DSM 	FIG00502007: hypothetical protein	fig|6666666.103576.peg.202	7	cf_putative
+268457	269053	+	1	219829:Chloroflexus aggregans DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103576.peg.212	0	none
+258173	257298	-	0	219829:Chloroflexus aggregans DSM 	FIG00502007: hypothetical protein	fig|6666666.103576.peg.202	0	cf_putative
 259174	258173	-	0	219829:Chloroflexus aggregans DSM 	Methanol dehydrogenase regulator (MoxR) homolog	fig|6666666.103576.peg.203	0	none
 260894	259221	-	0	219829:Chloroflexus aggregans DSM 	FIG01232154: hypothetical protein	fig|6666666.103576.peg.204	0	none
-261402	260974	-	0	219829:Chloroflexus aggregans DSM 	FIG00500305: hypothetical protein	fig|6666666.103576.peg.205	7	cf_saccharide
-262363	261578	-	0	219829:Chloroflexus aggregans DSM 	Twin-arginine translocation protein TatC	fig|6666666.103576.peg.206	7	cf_saccharide
-263103	262360	-	0	219829:Chloroflexus aggregans DSM 	Twin-arginine translocation protein TatB	fig|6666666.103576.peg.207	7	cf_saccharide
-263869	263339	-	0	219829:Chloroflexus aggregans DSM 	Lipoprotein-related protein	fig|6666666.103576.peg.208	7	cf_saccharide
-263977	266898	+	0	219829:Chloroflexus aggregans DSM 	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)	fig|6666666.103576.peg.209	7	cf_saccharide
-266895	267704	+	0	219829:Chloroflexus aggregans DSM 	UPF0354 protein BH3252	fig|6666666.103576.peg.210	7	cf_saccharide
+261402	260974	-	0	219829:Chloroflexus aggregans DSM 	FIG00500305: hypothetical protein	fig|6666666.103576.peg.205	0	cf_saccharide
+262363	261578	-	0	219829:Chloroflexus aggregans DSM 	Twin-arginine translocation protein TatC	fig|6666666.103576.peg.206	0	cf_saccharide
+263103	262360	-	0	219829:Chloroflexus aggregans DSM 	Twin-arginine translocation protein TatB	fig|6666666.103576.peg.207	0	cf_saccharide
+263869	263339	-	0	219829:Chloroflexus aggregans DSM 	Lipoprotein-related protein	fig|6666666.103576.peg.208	0	cf_saccharide
+263977	266898	+	0	219829:Chloroflexus aggregans DSM 	Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)	fig|6666666.103576.peg.209	0	cf_saccharide
+266895	267704	+	0	219829:Chloroflexus aggregans DSM 	UPF0354 protein BH3252	fig|6666666.103576.peg.210	0	cf_saccharide
 267747	268451	+	0	219829:Chloroflexus aggregans DSM 	FIG00502506: hypothetical protein	fig|6666666.103576.peg.211	0	none
 269123	270361	+	0	219829:Chloroflexus aggregans DSM 	heat shock protein DnaJ domain protein	fig|6666666.103576.peg.213	0	none
 271635	270391	-	0	219829:Chloroflexus aggregans DSM 	tolB protein precursor, periplasmic protein involved in the tonb-independent uptake of group A colicins	fig|6666666.103576.peg.214	0	none
 273228	274676	+	0	219829:Chloroflexus aggregans DSM 	Isochorismate synthase (EC 5.4.4.2) @ Menaquinone-specific isochorismate synthase (EC 5.4.4.2)	fig|6666666.103576.peg.215	0	none
-274790	276559	+	0	219829:Chloroflexus aggregans DSM 	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	fig|6666666.103576.peg.216	7	cf_saccharide
-276556	277734	+	0	219829:Chloroflexus aggregans DSM 	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|6666666.103576.peg.217	7	cf_saccharide
-279750	277780	-	0	219829:Chloroflexus aggregans DSM 	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	fig|6666666.103576.peg.218	7	cf_saccharide
-279819	280766	+	0	219829:Chloroflexus aggregans DSM 	response regulator receiver	fig|6666666.103576.peg.219	7	cf_saccharide
-281449	280910	-	0	219829:Chloroflexus aggregans DSM 	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)	fig|6666666.103576.peg.220	7	cf_saccharide
-281713	282651	+	0	219829:Chloroflexus aggregans DSM 	Cobalt-zinc-cadmium resistance protein	fig|6666666.103576.peg.221	7	cf_putative
-284585	282714	-	0	219829:Chloroflexus aggregans DSM 	hypothetical protein	fig|6666666.103576.peg.222	7	cf_putative
+274790	276559	+	0	219829:Chloroflexus aggregans DSM 	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	fig|6666666.103576.peg.216	0	cf_saccharide
+276556	277734	+	0	219829:Chloroflexus aggregans DSM 	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|6666666.103576.peg.217	0	cf_saccharide
+279750	277780	-	0	219829:Chloroflexus aggregans DSM 	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	fig|6666666.103576.peg.218	0	cf_saccharide
+279819	280766	+	0	219829:Chloroflexus aggregans DSM 	response regulator receiver	fig|6666666.103576.peg.219	0	cf_saccharide
+281449	280910	-	0	219829:Chloroflexus aggregans DSM 	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)	fig|6666666.103576.peg.220	0	cf_saccharide
+281713	282651	+	0	219829:Chloroflexus aggregans DSM 	Cobalt-zinc-cadmium resistance protein	fig|6666666.103576.peg.221	0	cf_putative
+284585	282714	-	0	219829:Chloroflexus aggregans DSM 	hypothetical protein	fig|6666666.103576.peg.222	0	cf_putative

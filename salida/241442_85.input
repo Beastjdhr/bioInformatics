@@ -1,21 +1,21 @@
-24325	23600	-	3	241442:Nocardioides insulae DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112254.peg.85	0	none
+24325	23600	-	1	241442:Nocardioides insulae DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112254.peg.85	0	none
 13545	14786	+	0	241442:Nocardioides insulae DSM 	possible amidohydrolase	fig|6666666.112254.peg.75	0	none
 16221	14887	-	0	241442:Nocardioides insulae DSM 	Chloride channel protein	fig|6666666.112254.peg.76	0	none
-16989	16348	-	0	241442:Nocardioides insulae DSM 	putative two-component system response regulator	fig|6666666.112254.peg.77	7	cf_putative
-18098	16941	-	0	241442:Nocardioides insulae DSM 	putative two-component system sensor kinase	fig|6666666.112254.peg.78	7	cf_putative
-18241	20418	+	0	241442:Nocardioides insulae DSM 	Integral membrane protein	fig|6666666.112254.peg.79	7	cf_putative
+16989	16348	-	0	241442:Nocardioides insulae DSM 	putative two-component system response regulator	fig|6666666.112254.peg.77	0	cf_putative
+18098	16941	-	0	241442:Nocardioides insulae DSM 	putative two-component system sensor kinase	fig|6666666.112254.peg.78	0	cf_putative
+18241	20418	+	0	241442:Nocardioides insulae DSM 	Integral membrane protein	fig|6666666.112254.peg.79	0	cf_putative
 20596	21282	+	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.80	0	none
 21328	21840	+	0	241442:Nocardioides insulae DSM 	GCN5-related N-acetyltransferase	fig|6666666.112254.peg.81	0	none
 21920	22192	+	0	241442:Nocardioides insulae DSM 	Rhodanese-related sulfurtransferase	fig|6666666.112254.peg.82	0	none
 22648	22205	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.83	0	none
 23574	23134	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.84	0	none
 24363	25067	+	0	241442:Nocardioides insulae DSM 	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)	fig|6666666.112254.peg.86	0	none
-25303	25028	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.87	7	cf_putative
-25284	26786	+	0	241442:Nocardioides insulae DSM 	Putative efflux (PET) family inner membrane protein YccS	fig|6666666.112254.peg.88	7	cf_putative
-28176	26941	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.89	7	cf_putative
+25303	25028	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.87	0	cf_putative
+25284	26786	+	0	241442:Nocardioides insulae DSM 	Putative efflux (PET) family inner membrane protein YccS	fig|6666666.112254.peg.88	0	cf_putative
+28176	26941	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.89	0	cf_putative
 29339	28173	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.90	0	none
 30415	29336	-	0	241442:Nocardioides insulae DSM 	hypothetical protein	fig|6666666.112254.peg.91	0	none
 30575	31240	+	0	241442:Nocardioides insulae DSM 	methyltransferase	fig|6666666.112254.peg.92	0	none
 31921	31256	-	0	241442:Nocardioides insulae DSM 	SWF/SNF family helicase	fig|6666666.112254.peg.93	0	none
 34721	31923	-	0	241442:Nocardioides insulae DSM 	Helicase, SNF2/RAD54 family	fig|6666666.112254.peg.94	0	none
-34821	35309	+	0	241442:Nocardioides insulae DSM 	Glutathione peroxidase family protein	fig|6666666.112254.peg.95	7	cf_putative
+34821	35309	+	0	241442:Nocardioides insulae DSM 	Glutathione peroxidase family protein	fig|6666666.112254.peg.95	0	cf_putative

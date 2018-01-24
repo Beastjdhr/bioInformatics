@@ -1,21 +1,21 @@
-13895	13104	-	3	218913:Streptomyces olindensis JJOH	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103278.peg.5148	0	nrps
-940	206	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5138	7	nrps
-1570	1046	-	0	218913:Streptomyces olindensis JJOH	FIG01131549: hypothetical protein	fig|6666666.103278.peg.5139	7	nrps
-3451	1601	-	0	218913:Streptomyces olindensis JJOH	Phage tail sheath protein FI	fig|6666666.103278.peg.5140	7	nrps
-3497	3655	+	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5141	7	nrps
-4166	4654	+	0	218913:Streptomyces olindensis JJOH	SC8B7.06c, unknown, len: 152 aa	fig|6666666.103278.peg.5142	7	nrps
-4889	4620	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5143	7	nrps
-5208	6434	+	0	218913:Streptomyces olindensis JJOH	Transcriptional regulator	fig|6666666.103278.peg.5144	7	nrps
-6535	8052	+	0	218913:Streptomyces olindensis JJOH	Aldehyde dehydrogenase (EC 1.2.1.3)	fig|6666666.103278.peg.5145	7	nrps
-9668	8127	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5146	7	nrps
-12430	9728	-	0	218913:Streptomyces olindensis JJOH	Sensory box histidine kinase/response regulator	fig|6666666.103278.peg.5147	7	nrps
-16939	13889	-	2	218913:Streptomyces olindensis JJOH	Non-ribosomal peptide synthetase	fig|6666666.103278.peg.5149	7	nrps
-20428	17249	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5150	7	nrps
-21164	21024	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5151	7	nrps
-21711	21334	-	0	218913:Streptomyces olindensis JJOH	MerR-family transcriptional regulator	fig|6666666.103278.peg.5152	7	nrps
-21811	22782	+	0	218913:Streptomyces olindensis JJOH	Short-chain dehydrogenase/reductase SDR	fig|6666666.103278.peg.5153	7	nrps
-23591	24553	+	0	218913:Streptomyces olindensis JJOH	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.103278.peg.5154	7	nrps
-25196	26170	+	0	218913:Streptomyces olindensis JJOH	protein of unknown function DUF323	fig|6666666.103278.peg.5155	7	nrps
-26180	26896	+	0	218913:Streptomyces olindensis JJOH	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	fig|6666666.103278.peg.5156	7	nrps
-26898	27962	+	0	218913:Streptomyces olindensis JJOH	luciferase-like	fig|6666666.103278.peg.5157	7	nrps
-27959	29341	+	0	218913:Streptomyces olindensis JJOH	non-ribosomal peptide synthetase	fig|6666666.103278.peg.5158	7	nrps
+13895	13104	-	1	218913:Streptomyces olindensis JJOH	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103278.peg.5148	0	nrps
+940	206	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5138	0	nrps
+1570	1046	-	0	218913:Streptomyces olindensis JJOH	FIG01131549: hypothetical protein	fig|6666666.103278.peg.5139	0	nrps
+3451	1601	-	0	218913:Streptomyces olindensis JJOH	Phage tail sheath protein FI	fig|6666666.103278.peg.5140	0	nrps
+3497	3655	+	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5141	0	nrps
+4166	4654	+	0	218913:Streptomyces olindensis JJOH	SC8B7.06c, unknown, len: 152 aa	fig|6666666.103278.peg.5142	0	nrps
+4889	4620	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5143	0	nrps
+5208	6434	+	0	218913:Streptomyces olindensis JJOH	Transcriptional regulator	fig|6666666.103278.peg.5144	0	nrps
+6535	8052	+	0	218913:Streptomyces olindensis JJOH	Aldehyde dehydrogenase (EC 1.2.1.3)	fig|6666666.103278.peg.5145	0	nrps
+9668	8127	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5146	0	nrps
+12430	9728	-	0	218913:Streptomyces olindensis JJOH	Sensory box histidine kinase/response regulator	fig|6666666.103278.peg.5147	0	nrps
+16939	13889	-	2	218913:Streptomyces olindensis JJOH	Non-ribosomal peptide synthetase	fig|6666666.103278.peg.5149	44.80	nrps
+20428	17249	-	0	218913:Streptomyces olindensis JJOH	diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)	fig|6666666.103278.peg.5150	0	nrps
+21164	21024	-	0	218913:Streptomyces olindensis JJOH	hypothetical protein	fig|6666666.103278.peg.5151	0	nrps
+21711	21334	-	0	218913:Streptomyces olindensis JJOH	MerR-family transcriptional regulator	fig|6666666.103278.peg.5152	0	nrps
+21811	22782	+	0	218913:Streptomyces olindensis JJOH	Short-chain dehydrogenase/reductase SDR	fig|6666666.103278.peg.5153	0	nrps
+23591	24553	+	0	218913:Streptomyces olindensis JJOH	Beta-lactamase class C and other penicillin binding proteins	fig|6666666.103278.peg.5154	0	nrps
+25196	26170	+	0	218913:Streptomyces olindensis JJOH	protein of unknown function DUF323	fig|6666666.103278.peg.5155	0	nrps
+26180	26896	+	0	218913:Streptomyces olindensis JJOH	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	fig|6666666.103278.peg.5156	0	nrps
+26898	27962	+	0	218913:Streptomyces olindensis JJOH	luciferase-like	fig|6666666.103278.peg.5157	0	nrps
+27959	29341	+	0	218913:Streptomyces olindensis JJOH	non-ribosomal peptide synthetase	fig|6666666.103278.peg.5158	0	nrps

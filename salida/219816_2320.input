@@ -1,8 +1,8 @@
-2407736	2407005	-	3	219816:Propionibacterium acnes KPA	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103563.peg.2320	0	none
-2395826	2394342	-	0	219816:Propionibacterium acnes KPA	Cytosine/purine/uracil/thiamine/allantoin permease family protein	fig|6666666.103563.peg.2310	7	cf_putative
-2397555	2396185	-	0	219816:Propionibacterium acnes KPA	Probable electron transfer flavoprotein-quinone oxidoreductase FixC (EC 1.5.5.-)	fig|6666666.103563.peg.2311	7	cf_putative
-2398430	2397552	-	0	219816:Propionibacterium acnes KPA	Electron transfer flavoprotein, alpha subunit	fig|6666666.103563.peg.2312	7	cf_putative
-2399224	2398463	-	0	219816:Propionibacterium acnes KPA	putative electron transfer flavoprotein (FixA protein)	fig|6666666.103563.peg.2313	7	cf_putative
+2407736	2407005	-	1	219816:Propionibacterium acnes KPA	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103563.peg.2320	0	none
+2395826	2394342	-	0	219816:Propionibacterium acnes KPA	Cytosine/purine/uracil/thiamine/allantoin permease family protein	fig|6666666.103563.peg.2310	0	cf_putative
+2397555	2396185	-	0	219816:Propionibacterium acnes KPA	Probable electron transfer flavoprotein-quinone oxidoreductase FixC (EC 1.5.5.-)	fig|6666666.103563.peg.2311	0	cf_putative
+2398430	2397552	-	0	219816:Propionibacterium acnes KPA	Electron transfer flavoprotein, alpha subunit	fig|6666666.103563.peg.2312	0	cf_putative
+2399224	2398463	-	0	219816:Propionibacterium acnes KPA	putative electron transfer flavoprotein (FixA protein)	fig|6666666.103563.peg.2313	0	cf_putative
 2400499	2399333	-	0	219816:Propionibacterium acnes KPA	L-carnitine dehydratase/bile acid-inducible protein F	fig|6666666.103563.peg.2314	0	none
 2401685	2400537	-	0	219816:Propionibacterium acnes KPA	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)	fig|6666666.103563.peg.2315	0	none
 2402675	2401911	-	0	219816:Propionibacterium acnes KPA	Transcriptional regulator, IclR family	fig|6666666.103563.peg.2316	0	none

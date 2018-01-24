@@ -1,21 +1,21 @@
-35855	36640	+	3	220518:Streptomyces sp. NRRL S-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104235.peg.4914	0	nrps
-14045	13758	-	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4904	7	nrps
-14133	16388	+	0	220518:Streptomyces sp. NRRL S-	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	fig|6666666.104235.peg.4905	7	nrps
-17632	16478	-	0	220518:Streptomyces sp. NRRL S-	Aspartate aminotransferase (EC 2.6.1.1)	fig|6666666.104235.peg.4906	7	nrps
-18868	17657	-	0	220518:Streptomyces sp. NRRL S-	carboxylase	fig|6666666.104235.peg.4907	7	nrps
-20174	18840	-	0	220518:Streptomyces sp. NRRL S-	Transporter, MFS superfamily	fig|6666666.104235.peg.4908	7	nrps
-21166	20168	-	0	220518:Streptomyces sp. NRRL S-	Ornithine cyclodeaminase (EC 4.3.1.12)	fig|6666666.104235.peg.4909	7	nrps
-22161	21163	-	0	220518:Streptomyces sp. NRRL S-	Ornithine cyclodeaminase (EC 4.3.1.12)	fig|6666666.104235.peg.4910	7	nrps
-28661	22158	-	0	220518:Streptomyces sp. NRRL S-	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.104235.peg.4911	7	nrps
-31783	28667	-	2	220518:Streptomyces sp. NRRL S-	FIG01294969: hypothetical protein	fig|6666666.104235.peg.4912	7	nrps
-32815	35847	+	2	220518:Streptomyces sp. NRRL S-	putative non-ribosomal peptide synthetase	fig|6666666.104235.peg.4913	7	nrps
-36658	37479	+	4	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4915	7	nrps
-37545	38603	+	6	220518:Streptomyces sp. NRRL S-	O-methyltransferase	fig|6666666.104235.peg.4916	7	nrps
-38600	40465	+	0	220518:Streptomyces sp. NRRL S-	Butyryl-CoA dehydrogenase (EC 1.3.99.2)	fig|6666666.104235.peg.4917	7	nrps
-40462	41124	+	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4918	7	nrps
-41266	42867	+	0	220518:Streptomyces sp. NRRL S-	Transmembrane transport protein	fig|6666666.104235.peg.4919	7	nrps
-42983	44215	+	0	220518:Streptomyces sp. NRRL S-	putative cytochrome P450 hydroxylase	fig|6666666.104235.peg.4920	7	nrps
-44301	44861	+	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4921	7	nrps
-45254	44973	-	0	220518:Streptomyces sp. NRRL S-	Copper chaperone	fig|6666666.104235.peg.4922	7	nrps
-46609	45368	-	0	220518:Streptomyces sp. NRRL S-	putative membrane transporter	fig|6666666.104235.peg.4923	7	nrps
-47721	46606	-	0	220518:Streptomyces sp. NRRL S-	Cysteine synthase (EC 2.5.1.47)	fig|6666666.104235.peg.4924	7	nrps
+35855	36640	+	1	220518:Streptomyces sp. NRRL S-	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.104235.peg.4914	0	nrps
+14045	13758	-	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4904	0	nrps
+14133	16388	+	0	220518:Streptomyces sp. NRRL S-	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	fig|6666666.104235.peg.4905	0	nrps
+17632	16478	-	0	220518:Streptomyces sp. NRRL S-	Aspartate aminotransferase (EC 2.6.1.1)	fig|6666666.104235.peg.4906	0	nrps
+18868	17657	-	0	220518:Streptomyces sp. NRRL S-	carboxylase	fig|6666666.104235.peg.4907	0	nrps
+20174	18840	-	0	220518:Streptomyces sp. NRRL S-	Transporter, MFS superfamily	fig|6666666.104235.peg.4908	0	nrps
+21166	20168	-	0	220518:Streptomyces sp. NRRL S-	Ornithine cyclodeaminase (EC 4.3.1.12)	fig|6666666.104235.peg.4909	0	nrps
+22161	21163	-	0	220518:Streptomyces sp. NRRL S-	Ornithine cyclodeaminase (EC 4.3.1.12)	fig|6666666.104235.peg.4910	0	nrps
+28661	22158	-	0	220518:Streptomyces sp. NRRL S-	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.104235.peg.4911	0	nrps
+31783	28667	-	2	220518:Streptomyces sp. NRRL S-	FIG01294969: hypothetical protein	fig|6666666.104235.peg.4912	38.66	nrps
+32815	35847	+	2	220518:Streptomyces sp. NRRL S-	putative non-ribosomal peptide synthetase	fig|6666666.104235.peg.4913	70.88	nrps
+36658	37479	+	4	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4915	71.14	nrps
+37545	38603	+	6	220518:Streptomyces sp. NRRL S-	O-methyltransferase	fig|6666666.104235.peg.4916	76.99	nrps
+38600	40465	+	0	220518:Streptomyces sp. NRRL S-	Butyryl-CoA dehydrogenase (EC 1.3.99.2)	fig|6666666.104235.peg.4917	0	nrps
+40462	41124	+	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4918	0	nrps
+41266	42867	+	0	220518:Streptomyces sp. NRRL S-	Transmembrane transport protein	fig|6666666.104235.peg.4919	0	nrps
+42983	44215	+	0	220518:Streptomyces sp. NRRL S-	putative cytochrome P450 hydroxylase	fig|6666666.104235.peg.4920	0	nrps
+44301	44861	+	0	220518:Streptomyces sp. NRRL S-	hypothetical protein	fig|6666666.104235.peg.4921	0	nrps
+45254	44973	-	0	220518:Streptomyces sp. NRRL S-	Copper chaperone	fig|6666666.104235.peg.4922	0	nrps
+46609	45368	-	0	220518:Streptomyces sp. NRRL S-	putative membrane transporter	fig|6666666.104235.peg.4923	0	nrps
+47721	46606	-	0	220518:Streptomyces sp. NRRL S-	Cysteine synthase (EC 2.5.1.47)	fig|6666666.104235.peg.4924	0	nrps

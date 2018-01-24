@@ -1,13 +1,13 @@
-708335	709021	+	3	241444:Marmoricola aequoreus JOJN	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112256.peg.3289	0	none
-695352	698069	+	0	241444:Marmoricola aequoreus JOJN	Helicase, SNF2/RAD54 family	fig|6666666.112256.peg.3279	7	cf_putative
-698074	698787	+	0	241444:Marmoricola aequoreus JOJN	SWF/SNF family helicase	fig|6666666.112256.peg.3280	7	cf_putative
-698806	699402	+	0	241444:Marmoricola aequoreus JOJN	Transcriptional regulator, TetR family	fig|6666666.112256.peg.3281	7	cf_putative
-700509	699406	-	0	241444:Marmoricola aequoreus JOJN	Homoserine O-acetyltransferase (EC 2.3.1.31)	fig|6666666.112256.peg.3282	7	cf_putative
-701795	700509	-	0	241444:Marmoricola aequoreus JOJN	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	fig|6666666.112256.peg.3283	7	cf_putative
-701916	703457	+	0	241444:Marmoricola aequoreus JOJN	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	fig|6666666.112256.peg.3284	7	cf_putative
-703588	705387	+	0	241444:Marmoricola aequoreus JOJN	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	fig|6666666.112256.peg.3285	7	cf_putative
-705401	706282	+	0	241444:Marmoricola aequoreus JOJN	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.112256.peg.3286	7	cf_putative
-706287	707513	+	0	241444:Marmoricola aequoreus JOJN	putative cytochrome P450 hydroxylase	fig|6666666.112256.peg.3287	7	cf_putative
+708335	709021	+	1	241444:Marmoricola aequoreus JOJN	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112256.peg.3289	0	none
+695352	698069	+	0	241444:Marmoricola aequoreus JOJN	Helicase, SNF2/RAD54 family	fig|6666666.112256.peg.3279	0	cf_putative
+698074	698787	+	0	241444:Marmoricola aequoreus JOJN	SWF/SNF family helicase	fig|6666666.112256.peg.3280	0	cf_putative
+698806	699402	+	0	241444:Marmoricola aequoreus JOJN	Transcriptional regulator, TetR family	fig|6666666.112256.peg.3281	0	cf_putative
+700509	699406	-	0	241444:Marmoricola aequoreus JOJN	Homoserine O-acetyltransferase (EC 2.3.1.31)	fig|6666666.112256.peg.3282	0	cf_putative
+701795	700509	-	0	241444:Marmoricola aequoreus JOJN	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	fig|6666666.112256.peg.3283	0	cf_putative
+701916	703457	+	0	241444:Marmoricola aequoreus JOJN	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	fig|6666666.112256.peg.3284	0	cf_putative
+703588	705387	+	0	241444:Marmoricola aequoreus JOJN	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	fig|6666666.112256.peg.3285	0	cf_putative
+705401	706282	+	0	241444:Marmoricola aequoreus JOJN	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.112256.peg.3286	0	cf_putative
+706287	707513	+	0	241444:Marmoricola aequoreus JOJN	putative cytochrome P450 hydroxylase	fig|6666666.112256.peg.3287	0	cf_putative
 708283	707591	-	0	241444:Marmoricola aequoreus JOJN	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)	fig|6666666.112256.peg.3288	0	none
 709363	709025	-	0	241444:Marmoricola aequoreus JOJN	Rhodanese-related sulfurtransferase	fig|6666666.112256.peg.3290	0	none
 710322	709438	-	0	241444:Marmoricola aequoreus JOJN	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)	fig|6666666.112256.peg.3291	0	none

@@ -103,13 +103,12 @@ sub writeContexts {
 
   my @list;
 
-  my $counter= keys %genes ;
-  $counter*= 10;
 
+my $counter= 139 *21;
   foreach my $gen (keys %genes) {
-    print "$counter genes left\n";
-    $counter--;
     my @lines;
+    print "$counter genes left\n";
+    $counter-= 21;
     #getting rast number:
     $genes{$gen}=~ m/(\d+)\.\./;
     my $rast= $1;
@@ -172,6 +171,7 @@ sub getContext {
   my $out= shift;
 
 
+
   #getting rastN:
   $path=~ m/\/(\d+)/;
   my $rast= $1;
@@ -190,7 +190,7 @@ sub getContext {
   my $Genome= $Fig[1] . "." . $Fig[2];
   my $molecFunction= $elements[7];
   my $id= $elements[1];
-  my $color2=0;
+  my $percent=0;
   my $genomeGen= $Genome . "." . $gen;
   my $none= 'none';
 
@@ -200,11 +200,11 @@ my @blast_genes= split/\n/, $blast_genes;
 my $blastSearch= ' ';
 #checking if gene is in blast file:
 $blastSearch= `grep "$fig" $blast`;
-if (length($blastSearch) > 2) {
+if (length($blastSearch) > 2 && ! looks_like_number($contig)) {
     my @cols= split/\t/, $blastSearch;
     unless ( $cols[0] eq $cols[1]) {
       if ($cols[0] eq $blast_genes[0]) {
-        $number= 1;
+        $number= 5;
       }
       elsif ($cols[0] eq $blast_genes[1]) {
         $number= 2;
@@ -218,6 +218,7 @@ if (length($blastSearch) > 2) {
       elsif ($cols[0] eq $blast_genes[4]) {
         $number= 6;
       }
+      $percent= $cols[2];
     }
   }
 
@@ -229,12 +230,9 @@ if (length($blastSearch) > 2) {
   unless (length($function) < 2) {
     # print "function found: $function\n at $rast\n";
     $none= $function;
-    if (! looks_like_number($contig)) {
-      $color2=7;
-    }
   }
 
-  my $datum= $startCoord . "\t" . $endCoord . "\t" . $sign . "\t" . $number . "\t" . "$rast:$org" . "\t" . $molecFunction . "\t" . $id . "\t" . $color2 . "\t" . $none . "\n";
+  my $datum= $startCoord . "\t" . $endCoord . "\t" . $sign . "\t" . $number . "\t" . "$rast:$org" . "\t" . $molecFunction . "\t" . $id . "\t" . $percent . "\t" . $none . "\n";
 
 
   if (looks_like_number($contig) || $contig eq $cont) {

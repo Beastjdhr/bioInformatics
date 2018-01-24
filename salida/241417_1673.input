@@ -1,9 +1,9 @@
-94682	95362	+	3	241417:Marmoricola sp. URHB	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112230.peg.1673	0	none
-83627	84037	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1663	7	cf_putative
-84572	84024	-	0	241417:Marmoricola sp. URHB	Transcriptional regulator, TetR family	fig|6666666.112230.peg.1664	7	cf_putative
-84696	85973	+	0	241417:Marmoricola sp. URHB	Sialic acid transporter (permease) NanT	fig|6666666.112230.peg.1665	7	cf_putative
-86099	87667	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1666	7	cf_putative
-87667	89538	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1667	7	cf_putative
+94682	95362	+	1	241417:Marmoricola sp. URHB	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.112230.peg.1673	0	none
+83627	84037	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1663	0	cf_putative
+84572	84024	-	0	241417:Marmoricola sp. URHB	Transcriptional regulator, TetR family	fig|6666666.112230.peg.1664	0	cf_putative
+84696	85973	+	0	241417:Marmoricola sp. URHB	Sialic acid transporter (permease) NanT	fig|6666666.112230.peg.1665	0	cf_putative
+86099	87667	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1666	0	cf_putative
+87667	89538	+	0	241417:Marmoricola sp. URHB	Methylcrotonyl-CoA carboxylase biotin-containing subunit (EC 6.4.1.4)	fig|6666666.112230.peg.1667	0	cf_putative
 89531	90433	+	0	241417:Marmoricola sp. URHB	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	fig|6666666.112230.peg.1668	0	none
 90562	91653	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1669	0	none
 91653	92801	+	0	241417:Marmoricola sp. URHB	hypothetical protein	fig|6666666.112230.peg.1670	0	none
