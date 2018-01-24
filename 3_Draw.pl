@@ -132,8 +132,8 @@ sub arrow{
 	my $real_start=shift;
 	my $real_end=shift;
 	my $smash=shift;
-	$color=$percent;
-	$percent=100;
+#	$color=$percent;
+#	$percent=100;
   my $color1;
   my $color2;
   my $color3;
@@ -146,15 +146,15 @@ sub arrow{
 		$color2=241;
 		$color3=33;
 		}
+	if($color==0){($color1,$color2,$color3)=(11,154,158);}
 	if($color==1){($color1,$color2,$color3)=(250,22,22);}
-	if($color==2){($color1,$color2,$color3)=(250,22,22);}
-	if($color==3){($color1,$color2,$color3)=(22,00,22);}
+	if($color==2){($color1,$color2,$color3)=(51,51,204);}
+	if($color==3){($color1,$color2,$color3)=(230,0,230);}
 	if($color==4){($color1,$color2,$color3)=(22,22,00);}
 	if($color==5){($color1,$color2,$color3)=(22,00,00);}
 	if($color==6){($color1,$color2,$color3)=(00,00,22);}
 	#if($color==6){($color1,$color2,$color3)=(00,00,22);}
 	if($color==7){($color1,$color2,$color3)=(00,22,22);}
-	
 
   #start arrow end arrow organism number direction
   my ($u1,$u2,$u3,$u4,$u5,$v1,$v2,$v3,$v4,$v5);
@@ -202,9 +202,14 @@ sub arrow{
 
 		if($smash ne "none"){
                 	$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'steelblue',
-                        'stroke-width' =>2,'stroke-opacity' =>  1,'fill-opacity'=> 1,},);
+                        'stroke-width' =>2,'stroke-opacity' =>  1,'fill-opacity'=> $opacity,},);
+#print "Colores SMASH $color-> $color1, $color2, $color3\n";
+#my $pause=<STDIN>;
                         }
 		else{
+			
+#print "Colores no SMASH $color-> $color1,$color2,$color3\n";
+#my $pause=<STDIN>;
 			# Then we use that data structure to create a polygon
 			$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'black',
 			'stroke-width' =>1,'stroke-opacity' =>  1,'fill-opacity'=> $opacity,},);
