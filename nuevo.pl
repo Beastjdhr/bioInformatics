@@ -48,7 +48,7 @@ my $tag = $svg->script(-type=>"text/ecmascript");
 
 
 ### Draw frequencies
-DrawFrequencies($h,$t,$nClust,\%ColorNames);
+#DrawFrequencies($h,$t,$nClust,\%ColorNames);
 ######## Main
 
 Draw($outname,\@CLUSTERS,$s,$t,$tv,$w,$cutleft,$grueso,\%ColorNames, $rescale);
