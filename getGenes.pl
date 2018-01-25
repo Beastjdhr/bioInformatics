@@ -2,6 +2,7 @@ use warnings;
 use strict;
 use Getopt::Long;
 use Scalar::Util qw(looks_like_number);
+use feature qw(say);
 
 GetOptions(
         'left=i'=> \my $genL,
@@ -200,7 +201,8 @@ my @blast_genes= split/\n/, $blast_genes;
 my $blastSearch= ' ';
 #checking if gene is in blast file:
 $blastSearch= `grep "$fig" $blast`;
-if (length($blastSearch) > 2 && ! looks_like_number($contig)) {
+if (length($blastSearch) > 2) {
+  say "mactch: $org";
     my @cols= split/\t/, $blastSearch;
     unless ( $cols[0] eq $cols[1]) {
       if ($cols[0] eq $blast_genes[0]) {

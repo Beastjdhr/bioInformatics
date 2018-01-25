@@ -1,4 +1,4 @@
-130363	131145	+	1	218834:Streptomyces achromogenes subsp. achromogenes JODT	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103208.peg.3535	0	cf_fatty_acid
+130363	131145	+	3	218834:Streptomyces achromogenes subsp. achromogenes JODT	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.103208.peg.3535	68.87	cf_fatty_acid
 117148	117627	+	0	218834:Streptomyces achromogenes subsp. achromogenes JODT	hypothetical protein	fig|6666666.103208.peg.3525	0	cf_fatty_acid
 119046	117823	-	0	218834:Streptomyces achromogenes subsp. achromogenes JODT	secreted protein	fig|6666666.103208.peg.3526	0	cf_fatty_acid
 119333	120154	+	0	218834:Streptomyces achromogenes subsp. achromogenes JODT	Lipase family protein	fig|6666666.103208.peg.3527	0	cf_fatty_acid

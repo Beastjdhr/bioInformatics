@@ -1,4 +1,4 @@
-25806	26474	+	1	226547:Granulicoccus phenolivorans DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.105565.peg.847	0	none
+25806	26474	+	3	226547:Granulicoccus phenolivorans DSM 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.105565.peg.847	34.62	none
 17562	17242	-	0	226547:Granulicoccus phenolivorans DSM 	hypothetical protein	fig|6666666.105565.peg.837	0	cf_putative
 19479	17758	-	0	226547:Granulicoccus phenolivorans DSM 	Pyruvate oxidase [ubiquinone, cytochrome] (EC 1.2.2.2)	fig|6666666.105565.peg.838	0	cf_putative
 20427	19534	-	0	226547:Granulicoccus phenolivorans DSM 	Polyphosphate kinase 2 (EC 2.7.4.1)	fig|6666666.105565.peg.839	0	none
