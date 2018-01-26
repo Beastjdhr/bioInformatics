@@ -49,11 +49,12 @@ foreach my $u (@uniq) {
   elsif ($u=~ /NZ /) {
     $u=~ s/NZ /NZ_/;
   }
-  say $u;
+    say $u;
   my $rastLine= `grep "$u" Actinos.ids`;
   my @pts= split/\t/, $rastLine;
   my $rast= $pts[0];
   my $genome= $pts[1];
+  say $genome;
   my $genLine= `grep "$genome" LivipeptineHits`;
   $genLine=~ m/\.peg\.(\d+)/;
   my $geNum= $1;

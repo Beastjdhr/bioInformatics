@@ -22,7 +22,7 @@ my $genomesFile= "$inputDir/LivipeptineHits";
 my $blast= 'output.txt';
 
 #first, the genomes to retrieve must be stored in an array in order to
-#be macthed to their rast numbers
+#be matched to their rast numbers
 my @targetGenes= getGenes($genomesFile);
 
 #now that the genomes have been obtained, they are matched to their rast numbers
@@ -202,27 +202,26 @@ my $blastSearch= ' ';
 #checking if gene is in blast file:
 $blastSearch= `grep "$fig" $blast`;
 if (length($blastSearch) > 2) {
-  say "mactch: $org";
+  say "match: $org";
     my @cols= split/\t/, $blastSearch;
-    unless ( $cols[0] eq $cols[1]) {
-      if ($cols[0] eq $blast_genes[0]) {
+      if ($cols[0] eq $blast_genes[0] && ! looks_like_number($contig)) {
         $number= 5;
       }
-      elsif ($cols[0] eq $blast_genes[1]) {
+      elsif ($cols[0] eq $blast_genes[1] && ! looks_like_number($contig)) {
         $number= 2;
       }
-      elsif ($cols[0] eq $blast_genes[2]) {
+      elsif ($cols[0] eq $blast_genes[2] && ! looks_like_number($contig)) {
         $number= 3;
       }
-      elsif ($cols[0] eq $blast_genes[3]) {
+      elsif ($cols[0] eq $blast_genes[3] && ! looks_like_number($contig)) {
         $number= 4;
       }
-      elsif ($cols[0] eq $blast_genes[4]) {
+      elsif ($cols[0] eq $blast_genes[4] && ! looks_like_number($contig)) {
         $number= 6;
       }
       $percent= $cols[2];
     }
-  }
+
 
 # looking for gen functions:
   my $actinosMatch= `grep $genomeGen\t ../los1246/ActinoSMASH`;

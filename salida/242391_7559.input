@@ -1,4 +1,4 @@
-894930	895718	+	1	242391:Streptomyces lividans 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113127.peg.7559	100	other
+894930	895718	+	1	242391:Streptomyces lividans 	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113127.peg.7559	100.00	other
 881116	879899	-	0	242391:Streptomyces lividans 	phage-related integrase	fig|6666666.113127.peg.7549	0	other
 881927	882241	+	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7550	0	other
 882537	882716	+	0	242391:Streptomyces lividans 	Transcriptional regulator, MerR family	fig|6666666.113127.peg.7551	0	other
@@ -7,10 +7,10 @@
 887932	887771	-	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7554	0	other
 889804	888068	-	0	242391:Streptomyces lividans 	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.8.1)	fig|6666666.113127.peg.7555	0	other
 890526	889801	-	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7556	0	other
-890912	890646	-	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7557	0	other
-891947	894913	+	0	242391:Streptomyces lividans 	Non-ribosomal peptide synthetase	fig|6666666.113127.peg.7558	0	other
-895746	896528	+	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7560	0	other
-896525	897592	+	0	242391:Streptomyces lividans 	O-methyltransferase	fig|6666666.113127.peg.7561	0	other
+890912	890646	-	5	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7557	100.00	other
+891947	894913	+	2	242391:Streptomyces lividans 	Non-ribosomal peptide synthetase	fig|6666666.113127.peg.7558	100.00	other
+895746	896528	+	4	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7560	100.00	other
+896525	897592	+	6	242391:Streptomyces lividans 	O-methyltransferase	fig|6666666.113127.peg.7561	100.00	other
 897661	899433	+	0	242391:Streptomyces lividans 	Butyryl-CoA dehydrogenase (EC 1.3.99.2)	fig|6666666.113127.peg.7562	0	other
 899430	900092	+	0	242391:Streptomyces lividans 	hypothetical protein	fig|6666666.113127.peg.7563	0	other
 900339	901841	+	0	242391:Streptomyces lividans 	major facilitator superfamily MFS_1	fig|6666666.113127.peg.7564	0	other
