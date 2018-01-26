@@ -1,4 +1,4 @@
-112766	113554	+	3	242347:Streptomyces mirabilis JQLE	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113083.peg.2968	51.38	cf_saccharide
+112766	113554	+	1	242347:Streptomyces mirabilis JQLE	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|6666666.113083.peg.2968	51.38	cf_saccharide
 97794	95008	-	0	242347:Streptomyces mirabilis JQLE	Signal transduction histidine kinase	fig|6666666.113083.peg.2958	0	cf_saccharide
 97926	98954	+	0	242347:Streptomyces mirabilis JQLE	FIG01123301: hypothetical protein	fig|6666666.113083.peg.2959	0	cf_saccharide
 101092	98978	-	0	242347:Streptomyces mirabilis JQLE	two-component sensor histidine kinase	fig|6666666.113083.peg.2960	0	cf_saccharide
