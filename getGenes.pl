@@ -59,6 +59,7 @@ sub getGenes {
     $line=~ m/peg\.(\d+)/;
     $gen= $gen . $1;
     #this element (genome_gen is stored in an array which is the output of this subroutine)
+    say $gen;
     push @genOutput, $gen;
   }
   return @genOutput;
