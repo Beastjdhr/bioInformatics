@@ -18,8 +18,8 @@ my @CLUSTERS=split(',',$ARGV[1]); 	## Read all input Uncomment to read all
 my $outname=$ARGV[2];
 my $nClust=scalar @CLUSTERS; 	#number of cluster (until now one per organism)
 				#3 Used to draw line<s
-print "N cluster $nClust\n";
-my $pause=<STDIN>;
+#print "N cluster $nClust\n";
+#my $pause=<STDIN>;
 my $w=800;  			## Size of the window
 my $t=50; 			##Traslation factor horizontal
 #if(!$ARGV[1]){$t=20;} 		##If there is not tree, there is not translation
@@ -169,7 +169,7 @@ sub arrow{
       ##down rigth
       $u3=$end-$s/10;  $v3=$refYCOORD->[$org-1]+$grueso/2;
       ##pick
-      $u4=$end;  $v4=$refYCOORD->[$org-1]; print "end $end org $org";
+      $u4=$end;  $v4=$refYCOORD->[$org-1]; #print "end $end org $org";
      ##up rigth
      $u5=$end-$s/10; $v5=$refYCOORD->[$org-1]-$grueso/2;
   }  
@@ -205,12 +205,12 @@ sub arrow{
 		if($smash ne "none"){
                 	$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'steelblue',
                         'stroke-width' =>2,'stroke-opacity' =>  1,'fill-opacity'=> $opacity,},);
-print "Colores SMASH $color-> $color1, $color2, $color3, opacity $opacity percent $percent \n";
+#print "Colores SMASH $color-> $color1, $color2, $color3, opacity $opacity percent $percent \n";
 #my $pause=<STDIN>;
                         }
 		else{
 			
-print "Colores no SMASH $color-> $color1,$color2,$color3, opacity $opacity percent $percent\n";
+#print "Colores no SMASH $color-> $color1,$color2,$color3, opacity $opacity percent $percent\n";
 #my $pause=<STDIN>;
 			# Then we use that data structure to create a polygon
 			$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'black',
@@ -381,20 +381,20 @@ foreach my $context(@CLUSTERS){
 			my $start=$ARROWS{$arrow}[11];
 			my $stop=$ARROWS{$arrow}[12];
 			my $smash=$ARROWS{$arrow}[13];
-			print "s1=$ARROWS{$arrow}[0]\n";
-		print" e1=$ARROWS{$arrow}[1]\n";
-			print "key=$ARROWS{$arrow}[2]\n";
-			print" dir=$ARROWS{$arrow}[3]\n";
-			print" color=$ARROWS{$arrow}[4]\n";
-			print" dirCont=$ARROWS{$arrow}[5]\n";
-			print" w=$ARROWS{$arrow}[6]\n";
-		print" e0=$ARROWS{$arrow}[7]\n";
-			print" func=$ARROWS{$arrow}[8]\n";
-			print" id_peg=$ARROWS{$arrow}[9]\n";
-			print" percent=$ARROWS{$arrow}[10]\n";
-			print "start=$ARROWS{$arrow}[11]\n";
-			print "stop=$ARROWS{$arrow}[12]\n";
-			print "smash=$ARROWS{$arrow}[13]\n";
+			#print "s1=$ARROWS{$arrow}[0]\n";
+			#print" e1=$ARROWS{$arrow}[1]\n";
+			#print "key=$ARROWS{$arrow}[2]\n";
+			#print" dir=$ARROWS{$arrow}[3]\n";
+			#print" color=$ARROWS{$arrow}[4]\n";
+			#print" dirCont=$ARROWS{$arrow}[5]\n";
+			#print" w=$ARROWS{$arrow}[6]\n";
+		        #print" e0=$ARROWS{$arrow}[7]\n";
+			#print" func=$ARROWS{$arrow}[8]\n";
+			#print" id_peg=$ARROWS{$arrow}[9]\n";
+			#print" percent=$ARROWS{$arrow}[10]\n";
+			#print "start=$ARROWS{$arrow}[11]\n";
+			#print "stop=$ARROWS{$arrow}[12]\n";
+			#print "smash=$ARROWS{$arrow}[13]\n";
 		#	if ($count>=1){ ##From level 1 we can go level 2 or stay 1
 		#		my $lastlevel=$level;
 			
