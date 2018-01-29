@@ -12,7 +12,7 @@
 1098084	1098968	+	0	288182:Rubrobacter radiotolerans strain RSPS-	PFIG00823557: AC2 (Proteasome assembly chaperone) family	fig|6666666.147048.peg.1048	0	cf_fatty_acid
 1099624	1099016	-	0	288182:Rubrobacter radiotolerans strain RSPS-	probable membrane protein NMA1128	fig|6666666.147048.peg.1049	0	cf_fatty_acid
 1100515	1099631	-	0	288182:Rubrobacter radiotolerans strain RSPS-	ATP-utilizing enzyme of the PP-loop superfamily	fig|6666666.147048.peg.1050	0	cf_fatty_acid
-1101821	1100580	-	0	288182:Rubrobacter radiotolerans strain RSPS-	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)	fig|6666666.147048.peg.1051	0	cf_fatty_acid
+1101821	1100580	-	0	288182:Rubrobacter radiotolerans strain RSPS-	1-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)	fig|6666666.147048.peg.1051	0	cf_fatty_acid
 1101926	1103206	+	0	288182:Rubrobacter radiotolerans strain RSPS-	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|6666666.147048.peg.1052	0	cf_fatty_acid
 1103203	1103445	+	0	288182:Rubrobacter radiotolerans strain RSPS-	COG4118: Antitoxin of toxin-antitoxin stability system	fig|6666666.147048.peg.1053	0	cf_fatty_acid
 1103447	1103881	+	0	288182:Rubrobacter radiotolerans strain RSPS-	hypothetical protein	fig|6666666.147048.peg.1054	0	cf_fatty_acid

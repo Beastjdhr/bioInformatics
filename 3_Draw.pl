@@ -17,11 +17,13 @@ my $rescale=$ARGV[0]; 		## Arrow horizontal size, greater values of this paramet
 my @CLUSTERS=split(',',$ARGV[1]); 	## Read all input Uncomment to read all
 my $outname=$ARGV[2];
 my $nClust=scalar @CLUSTERS; 	#number of cluster (until now one per organism)
-				#3 Used to draw lines
+				#3 Used to draw line<s
+print "N cluster $nClust\n";
+my $pause=<STDIN>;
 my $w=800;  			## Size of the window
-my $t=10; 			##Traslation factor horizontal
+my $t=50; 			##Traslation factor horizontal
 #if(!$ARGV[1]){$t=20;} 		##If there is not tree, there is not translation
-my $tv=0; 			##Translation factor Vertical
+my $tv=50; 			##Translation factor Vertical
 my $s=16.3; 			#Vertical Separation factor
 my $h=100*($nClust); 		# 100 of heigth for draw each organisms
 my $text=1; 			##Yes NO organism name
@@ -137,7 +139,7 @@ sub arrow{
   my $color1;
   my $color2;
   my $color3;
-
+#print "$percent\n";
 		
 	my $opacity=$percent/100.0;
 #	($color1,$color2,$color3)=fillColor($color,$refColorNames);
@@ -150,8 +152,8 @@ sub arrow{
 	if($color==1){($color1,$color2,$color3)=(250,22,22);}
 	if($color==2){($color1,$color2,$color3)=(51,51,204);}
 	if($color==3){($color1,$color2,$color3)=(230,0,230);}
-	if($color==4){($color1,$color2,$color3)=(22,22,00);}
-	if($color==5){($color1,$color2,$color3)=(22,00,00);}
+	if($color==4){($color1,$color2,$color3)=(247,247,59);}
+	if($color==5){($color1,$color2,$color3)=(38,208,44);}
 	if($color==6){($color1,$color2,$color3)=(00,00,22);}
 	#if($color==6){($color1,$color2,$color3)=(00,00,22);}
 	if($color==7){($color1,$color2,$color3)=(00,22,22);}
@@ -167,7 +169,7 @@ sub arrow{
       ##down rigth
       $u3=$end-$s/10;  $v3=$refYCOORD->[$org-1]+$grueso/2;
       ##pick
-      $u4=$end;  $v4=$refYCOORD->[$org-1];
+      $u4=$end;  $v4=$refYCOORD->[$org-1]; print "end $end org $org";
      ##up rigth
      $u5=$end-$s/10; $v5=$refYCOORD->[$org-1]-$grueso/2;
   }  
@@ -203,12 +205,12 @@ sub arrow{
 		if($smash ne "none"){
                 	$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'steelblue',
                         'stroke-width' =>2,'stroke-opacity' =>  1,'fill-opacity'=> $opacity,},);
-#print "Colores SMASH $color-> $color1, $color2, $color3\n";
+print "Colores SMASH $color-> $color1, $color2, $color3, opacity $opacity percent $percent \n";
 #my $pause=<STDIN>;
                         }
 		else{
 			
-#print "Colores no SMASH $color-> $color1,$color2,$color3\n";
+print "Colores no SMASH $color-> $color1,$color2,$color3, opacity $opacity percent $percent\n";
 #my $pause=<STDIN>;
 			# Then we use that data structure to create a polygon
 			$svg->polygon(  %$path,title=>"$desc",style => {'fill'=> "rgb($color1,$color2,$color3)",'stroke' => 'black',
@@ -379,7 +381,20 @@ foreach my $context(@CLUSTERS){
 			my $start=$ARROWS{$arrow}[11];
 			my $stop=$ARROWS{$arrow}[12];
 			my $smash=$ARROWS{$arrow}[13];
-
+			print "s1=$ARROWS{$arrow}[0]\n";
+		print" e1=$ARROWS{$arrow}[1]\n";
+			print "key=$ARROWS{$arrow}[2]\n";
+			print" dir=$ARROWS{$arrow}[3]\n";
+			print" color=$ARROWS{$arrow}[4]\n";
+			print" dirCont=$ARROWS{$arrow}[5]\n";
+			print" w=$ARROWS{$arrow}[6]\n";
+		print" e0=$ARROWS{$arrow}[7]\n";
+			print" func=$ARROWS{$arrow}[8]\n";
+			print" id_peg=$ARROWS{$arrow}[9]\n";
+			print" percent=$ARROWS{$arrow}[10]\n";
+			print "start=$ARROWS{$arrow}[11]\n";
+			print "stop=$ARROWS{$arrow}[12]\n";
+			print "smash=$ARROWS{$arrow}[13]\n";
 		#	if ($count>=1){ ##From level 1 we can go level 2 or stay 1
 		#		my $lastlevel=$level;
 			
