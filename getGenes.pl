@@ -17,7 +17,7 @@ my $inputDir= "../los1246";
 #file path where the file matching genomes to rast numbers is located:
 my $actinosFile="$inputDir/Actinos.ids";
 #file from which genomes are retrieved:
-my $genomesFile= "$inputDir/LivipeptineHits";
+my $genomesFile= "Livipep";
 #blast file:
 my $blast= 'output.txt';
 
