@@ -1,0 +1,7 @@
+	<text x="60" y="1230">Genome 220639_7483:comunesin    Gen:13</text>
+	<text x="60" y="4680">Genome 220669_2554:comunesin    Gen:13</text>
+	<text x="60" y="19630">Genome 242081_4136:comunesin    Gen:13</text>
+	<text x="60" y="30130">Genome 999999_16:comunesin    Gen:16</text>
+	<text x="60" y="30180">Genome 999999_13:comunesin    Gen:13</text>
+	<text x="60" y="31230">Genome 220465_1349:comunesin    Gen:13</text>
+	<text x="60" y="32780">Genome 220886_6963:comunesin    Gen:13</text>
