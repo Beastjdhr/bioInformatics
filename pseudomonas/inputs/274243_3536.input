@@ -1,0 +1,20 @@
+36675	35773	-	1	Pseudomonas denitrificans JVSJ01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136854.peg.3536	31.06	none
+27614	25950	-	0	Pseudomonas denitrificans JVSJ01	Malonate decarboxylase alpha subunit	fig|6666666.136854.peg.3526	0	none
+28306	27725	-	0	Pseudomonas denitrificans JVSJ01	FIG00956092: hypothetical protein	fig|6666666.136854.peg.3527	0	none
+28522	28734	+	0	Pseudomonas denitrificans JVSJ01	hypothetical protein	fig|6666666.136854.peg.3528	0	none
+29316	28915	-	0	Pseudomonas denitrificans JVSJ01	Biopolymer transport protein ExbD/TolR	fig|6666666.136854.peg.3529	0	none
+30037	29318	-	0	Pseudomonas denitrificans JVSJ01	MotA/TolQ/ExbB proton channel family protein	fig|6666666.136854.peg.3530	0	none
+30878	30066	-	0	Pseudomonas denitrificans JVSJ01	Ferric siderophore transport system, periplasmic binding protein TonB	fig|6666666.136854.peg.3531	0	none
+32657	31221	-	0	Pseudomonas denitrificans JVSJ01	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	fig|6666666.136854.peg.3532	0	none
+32965	32657	-	0	Pseudomonas denitrificans JVSJ01	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.136854.peg.3533	0	none
+34159	33041	-	0	Pseudomonas denitrificans JVSJ01	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.136854.peg.3534	0	none
+35705	34806	-	14	Pseudomonas denitrificans JVSJ01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136854.peg.3535	31.37	none
+39088	36716	-	0	Pseudomonas denitrificans JVSJ01	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.136854.peg.3537	0	none
+39438	40355	+	0	Pseudomonas denitrificans JVSJ01	LysR family transcriptional regulator PA0191	fig|6666666.136854.peg.3538	0	none
+41104	40379	-	0	Pseudomonas denitrificans JVSJ01	Membrane-associated phospholipid phosphatase	fig|6666666.136854.peg.3539	0	none
+41352	42710	+	0	Pseudomonas denitrificans JVSJ01	Outer membrane porin, OprD family	fig|6666666.136854.peg.3540	0	none
+43629	42748	-	0	Pseudomonas denitrificans JVSJ01	membrane protein, putative	fig|6666666.136854.peg.3541	0	none
+44441	43626	-	0	Pseudomonas denitrificans JVSJ01	FIG00953273: hypothetical protein	fig|6666666.136854.peg.3542	0	none
+45920	44859	-	0	Pseudomonas denitrificans JVSJ01	Alkanesulfonates-binding protein	fig|6666666.136854.peg.3543	0	none
+46187	47803	+	0	Pseudomonas denitrificans JVSJ01	Alkanesulfonates transport system permease protein	fig|6666666.136854.peg.3544	0	none
+47800	48639	+	0	Pseudomonas denitrificans JVSJ01	Alkanesulfonates ABC transporter ATP-binding protein / Sulfonate ABC transporter, ATP-binding subunit SsuB	fig|6666666.136854.peg.3545	0	none

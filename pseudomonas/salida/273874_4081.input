@@ -1,0 +1,42 @@
+109164	110063	+	1	273874:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136486.peg.4081	0	none
+109164	110063	+	1	273874:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136486.peg.4081	0	none
+94673	94149	-	0	273874:Pseudomonas	Transposase and inactivated derivatives	fig|6666666.136486.peg.4071	0	none
+95221	94781	-	0	273874:Pseudomonas	Transposase and inactivated derivatives	fig|6666666.136486.peg.4072	0	none
+96839	95586	-	0	273874:Pseudomonas	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	fig|6666666.136486.peg.4073	0	none
+100071	97156	-	0	273874:Pseudomonas	Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	fig|6666666.136486.peg.4074	0	none
+100271	100098	-	0	273874:Pseudomonas	hypothetical protein	fig|6666666.136486.peg.4075	0	none
+101651	100818	-	0	273874:Pseudomonas	Acid phosphatase (EC 3.1.3.2)	fig|6666666.136486.peg.4076	0	none
+104000	101850	-	0	273874:Pseudomonas	Ferrichrome-iron receptor	fig|6666666.136486.peg.4077	0	none
+104382	105440	+	0	273874:Pseudomonas	Alkanesulfonates-binding protein	fig|6666666.136486.peg.4078	0	none
+106437	105514	-	0	273874:Pseudomonas	LysR family transcriptional regulator PA0191	fig|6666666.136486.peg.4079	0	none
+106768	109143	+	0	273874:Pseudomonas	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.136486.peg.4080	0	none
+110118	111017	+	0	273874:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136486.peg.4082	0	none
+111670	111098	-	0	273874:Pseudomonas	Biotin synthesis protein BioC	fig|6666666.136486.peg.4083	0	none
+112347	111670	-	0	273874:Pseudomonas	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)	fig|6666666.136486.peg.4084	0	none
+112745	112491	-	0	273874:Pseudomonas	Cell division topological specificity factor MinE	fig|6666666.136486.peg.4085	0	none
+113557	112742	-	0	273874:Pseudomonas	Septum site-determining protein MinD	fig|6666666.136486.peg.4086	0	none
+114512	113781	-	0	273874:Pseudomonas	Septum site-determining protein MinC	fig|6666666.136486.peg.4087	0	none
+114725	114573	-	0	273874:Pseudomonas	hypothetical protein	fig|6666666.136486.peg.4088	0	none
+114863	116266	+	0	273874:Pseudomonas	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases	fig|6666666.136486.peg.4089	0	none
+116283	117242	+	0	273874:Pseudomonas	Long-chain acyl-CoA synthetases (AMP-forming)	fig|6666666.136486.peg.4090	0	none
+117239	118018	+	0	273874:Pseudomonas	Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)	fig|6666666.136486.peg.4091	0	none
+118018	118899	+	0	273874:Pseudomonas	High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)	fig|6666666.136486.peg.4092	0	none
+118904	119968	+	0	273874:Pseudomonas	Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)	fig|6666666.136486.peg.4093	0	none
+120049	121389	+	0	273874:Pseudomonas	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein	fig|6666666.136486.peg.4094	0	none
+121467	122801	+	0	273874:Pseudomonas	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein	fig|6666666.136486.peg.4095	0	none
+122875	123651	+	0	273874:Pseudomonas	ABC transporter ATP-binding protein	fig|6666666.136486.peg.4096	0	none
+123850	125082	+	0	273874:Pseudomonas	Acyl-CoA dehydrogenase; probable dibenzothiophene desulfurization enzyme	fig|6666666.136486.peg.4097	0	none
+125093	125452	+	0	273874:Pseudomonas	hypothetical protein	fig|6666666.136486.peg.4098	0	none
+125500	126486	+	0	273874:Pseudomonas	Ribose transport ATP-binding protein rbsA	fig|6666666.136486.peg.4099	0	none
+126518	128086	+	0	273874:Pseudomonas	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	fig|6666666.136486.peg.4100	0	none
+128070	129062	+	0	273874:Pseudomonas	Putative transmembrane sugar transport protein	fig|6666666.136486.peg.4101	0	none
+129064	130056	+	0	273874:Pseudomonas	Putative transmembrane sugar transport protein	fig|6666666.136486.peg.4102	0	none
+130179	130694	+	0	273874:Pseudomonas	Histone acetyltransferase HPA2 and related acetyltransferases	fig|6666666.136486.peg.4103	0	none
+130853	132067	+	0	273874:Pseudomonas	Permeases of the major facilitator superfamily	fig|6666666.136486.peg.4104	0	none
+133275	132076	-	0	273874:Pseudomonas	Gluconate dehydratase (EC 4.2.1.39)	fig|6666666.136486.peg.4105	0	none
+134268	133285	-	0	273874:Pseudomonas	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|6666666.136486.peg.4106	0	none
+135524	134496	-	0	273874:Pseudomonas	Possible L-talarate utilization transcriptional regulator, LacI family	fig|6666666.136486.peg.4107	0	none
+135811	136494	+	0	273874:Pseudomonas	SH3-like region	fig|6666666.136486.peg.4108	0	none
+137452	136580	-	0	273874:Pseudomonas	Transcriptional regulator	fig|6666666.136486.peg.4109	0	none
+137566	137991	+	0	273874:Pseudomonas	probable dioxygenase	fig|6666666.136486.peg.4110	0	none
+138978	138073	-	0	273874:Pseudomonas	Transcriptional regulator, LysR family	fig|6666666.136486.peg.4111	0	none

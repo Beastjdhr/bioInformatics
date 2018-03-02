@@ -1,0 +1,41 @@
+102995	103897	+	1	272555:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135168.peg.3522	0	none
+102995	103897	+	1	272555:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135168.peg.3522	0	none
+90607	91359	+	0	272555:Pseudomonas	Oxidoreductase, short chain dehydrogenase/reductase family	fig|6666666.135168.peg.3512	0	none
+93069	91459	-	0	272555:Pseudomonas	Choline-sulfatase (EC 3.1.6.6)	fig|6666666.135168.peg.3513	0	none
+93996	93157	-	0	272555:Pseudomonas	Alkanesulfonates ABC transporter ATP-binding protein / Sulfonate ABC transporter, ATP-binding subunit SsuB	fig|6666666.135168.peg.3514	0	none
+95609	93993	-	0	272555:Pseudomonas	Alkanesulfonates transport system permease protein	fig|6666666.135168.peg.3515	0	none
+95876	96937	+	0	272555:Pseudomonas	Alkanesulfonates-binding protein	fig|6666666.135168.peg.3516	0	none
+98318	96960	-	0	272555:Pseudomonas	Outer membrane porin, OprD family	fig|6666666.135168.peg.3517	0	none
+98566	99291	+	0	272555:Pseudomonas	Membrane-associated phospholipid phosphatase	fig|6666666.135168.peg.3518	0	none
+100232	99315	-	0	272555:Pseudomonas	LysR family transcriptional regulator PA0191	fig|6666666.135168.peg.3519	0	none
+100590	100348	-	0	272555:Pseudomonas	FIG00953428: hypothetical protein	fig|6666666.135168.peg.3520	0	none
+100582	102954	+	0	272555:Pseudomonas	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.135168.peg.3521	0	none
+103965	104864	+	0	272555:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135168.peg.3523	0	none
+105511	106629	+	0	272555:Pseudomonas	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.135168.peg.3524	0	none
+106705	107013	+	0	272555:Pseudomonas	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.135168.peg.3525	0	none
+107013	108449	+	0	272555:Pseudomonas	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	fig|6666666.135168.peg.3526	0	none
+108792	109604	+	0	272555:Pseudomonas	Ferric siderophore transport system, periplasmic binding protein TonB	fig|6666666.135168.peg.3527	0	none
+109633	110352	+	0	272555:Pseudomonas	MotA/TolQ/ExbB proton channel family protein	fig|6666666.135168.peg.3528	0	none
+110354	110755	+	0	272555:Pseudomonas	Biopolymer transport protein ExbD/TolR	fig|6666666.135168.peg.3529	0	none
+111149	110937	-	0	272555:Pseudomonas	hypothetical protein	fig|6666666.135168.peg.3530	0	none
+111365	111946	+	0	272555:Pseudomonas	FIG00956092: hypothetical protein	fig|6666666.135168.peg.3531	0	none
+112057	113721	+	0	272555:Pseudomonas	Malonate decarboxylase alpha subunit	fig|6666666.135168.peg.3532	0	none
+113721	114602	+	0	272555:Pseudomonas	Triphosphoribosyl-dephospho-CoA synthetase (EC 2.7.8.25)	fig|6666666.135168.peg.3533	0	none
+114604	114903	+	0	272555:Pseudomonas	Malonate decarboxylase delta subunit	fig|6666666.135168.peg.3534	0	none
+114896	115759	+	0	272555:Pseudomonas	Malonate decarboxylase beta subunit	fig|6666666.135168.peg.3535	0	none
+115756	116562	+	0	272555:Pseudomonas	Malonate decarboxylase gamma subunit	fig|6666666.135168.peg.3536	0	none
+116684	116565	-	0	272555:Pseudomonas	hypothetical protein	fig|6666666.135168.peg.3537	0	none
+116683	117270	+	0	272555:Pseudomonas	Phosphoribosyl-dephospho-CoA transferase (EC 2.7.7.-)	fig|6666666.135168.peg.3538	0	none
+117267	118199	+	0	272555:Pseudomonas	Malonyl CoA acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.135168.peg.3539	0	none
+118256	118660	+	0	272555:Pseudomonas	Malonate transporter, MadL subunit	fig|6666666.135168.peg.3540	0	none
+118666	119430	+	0	272555:Pseudomonas	Malonate transporter, MadM subunit	fig|6666666.135168.peg.3541	0	none
+120444	119515	-	0	272555:Pseudomonas	Malonate utilization transcriptional regulator	fig|6666666.135168.peg.3542	0	none
+121069	120632	-	0	272555:Pseudomonas	FIG00956549: hypothetical protein	fig|6666666.135168.peg.3543	0	none
+122181	121261	-	0	272555:Pseudomonas	Cys regulon transcriptional activator CysB	fig|6666666.135168.peg.3544	0	none
+122387	122202	-	0	272555:Pseudomonas	FIG00954099: hypothetical protein	fig|6666666.135168.peg.3545	0	none
+122532	124022	+	0	272555:Pseudomonas	Aldehyde dehydrogenase (EC 1.2.1.3)	fig|6666666.135168.peg.3546	0	none
+124080	125513	+	0	272555:Pseudomonas	D-serine/D-alanine/glycine transporter	fig|6666666.135168.peg.3547	0	none
+127090	128148	+	0	272555:Pseudomonas	ABC transporter, periplasmic spermidine putrescine-binding protein PotD (TC 3.A.1.11.1)	fig|6666666.135168.peg.3549	0	none
+129107	128226	-	0	272555:Pseudomonas	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	fig|6666666.135168.peg.3550	0	none
+129949	129167	-	0	272555:Pseudomonas	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases	fig|6666666.135168.peg.3551	0	none
+130104	130643	+	0	272555:Pseudomonas	Transcriptional regulator, MerR family	fig|6666666.135168.peg.3552	0	none

@@ -1,0 +1,20 @@
+17312	16443	-	1	Pseudomonas amygdali JYHB01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135434.peg.4913	82.00	none
+5035	6294	+	0	Pseudomonas amygdali JYHB01	conserved hypothetical membrane protein, paralogue of Y20848	fig|6666666.135434.peg.4903	0	none
+6686	7471	+	0	Pseudomonas amygdali JYHB01	Nucleoside-binding outer membrane protein	fig|6666666.135434.peg.4904	0	none
+8558	7650	-	0	Pseudomonas amygdali JYHB01	Membrane protein, putative	fig|6666666.135434.peg.4905	0	none
+9230	8634	-	0	Pseudomonas amygdali JYHB01	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|6666666.135434.peg.4906	0	none
+9405	10421	+	0	Pseudomonas amygdali JYHB01	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)	fig|6666666.135434.peg.4907	0	none
+11326	10472	-	0	Pseudomonas amygdali JYHB01	Transcriptional regulator, LysR family	fig|6666666.135434.peg.4908	0	none
+11470	12333	+	0	Pseudomonas amygdali JYHB01	Permease of the drug/metabolite transporter (DMT) superfamily	fig|6666666.135434.peg.4909	0	none
+14292	12364	-	0	Pseudomonas amygdali JYHB01	Methyl-accepting chemotaxis protein	fig|6666666.135434.peg.4910	0	none
+15729	14602	-	0	Pseudomonas amygdali JYHB01	Carboxynorspermidine dehydrogenase	fig|6666666.135434.peg.4911	0	none
+15883	16398	+	0	Pseudomonas amygdali JYHB01	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135434.peg.4912	0	none
+24527	17409	-	13	Pseudomonas amygdali JYHB01	polyketide synthase type I	fig|6666666.135434.peg.4914	66.93	none
+26523	24493	-	20	Pseudomonas amygdali JYHB01	Peptide synthetase	fig|6666666.135434.peg.4915	64.29	none
+30632	26520	-	2	Pseudomonas amygdali JYHB01	Peptide synthetase	fig|6666666.135434.peg.4916	85.25	none
+39664	30629	-	15	Pseudomonas amygdali JYHB01	Non-ribosomal peptide synthetase modules, pyoverdine	fig|6666666.135434.peg.4917	68.45	none
+40284	40718	+	0	Pseudomonas amygdali JYHB01	acetyltransferase, GNAT family	fig|6666666.135434.peg.4918	0	none
+41549	40827	-	0	Pseudomonas amygdali JYHB01	Haloacid dehalogenase, type II (EC 3.8.1.2)	fig|6666666.135434.peg.4919	0	none
+41707	42702	+	0	Pseudomonas amygdali JYHB01	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	fig|6666666.135434.peg.4920	0	none
+42991	44631	+	0	Pseudomonas amygdali JYHB01	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.135434.peg.4921	0	none
+45698	44694	-	0	Pseudomonas amygdali JYHB01	Arabinose efflux permease	fig|6666666.135434.peg.4922	0	none

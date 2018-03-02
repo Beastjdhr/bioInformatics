@@ -1,0 +1,41 @@
+34836	33967	-	1	272530:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135143.peg.4364	0	none
+34836	33967	-	1	272530:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135143.peg.4364	0	none
+22423	23700	+	0	272530:Pseudomonas	FIG137887: membrane protein related to purine degradation	fig|6666666.135143.peg.4354	0	none
+24066	24851	+	0	272530:Pseudomonas	Nucleoside-binding outer membrane protein	fig|6666666.135143.peg.4355	0	none
+25954	25046	-	0	272530:Pseudomonas	Membrane protein, putative	fig|6666666.135143.peg.4356	0	none
+26608	26102	-	0	272530:Pseudomonas	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|6666666.135143.peg.4357	0	none
+26795	27811	+	0	272530:Pseudomonas	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)	fig|6666666.135143.peg.4358	0	none
+28792	29724	+	0	272530:Pseudomonas	Permease of the drug/metabolite transporter (DMT) superfamily	fig|6666666.135143.peg.4360	0	none
+31858	29930	-	0	272530:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.135143.peg.4361	0	none
+33341	32127	-	0	272530:Pseudomonas	Carboxynorspermidine dehydrogenase	fig|6666666.135143.peg.4362	0	none
+33409	33924	+	0	272530:Pseudomonas	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135143.peg.4363	0	none
+44115	34933	-	0	272530:Pseudomonas	Non-ribosomal peptide synthase	fig|6666666.135143.peg.4365	0	none
+48224	44112	-	0	272530:Pseudomonas	Thioesterase domains of type I polyketide synthases or non-ribosomal peptide synthetases	fig|6666666.135143.peg.4366	0	none
+57184	48221	-	0	272530:Pseudomonas	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.135143.peg.4367	0	none
+57179	57382	+	0	272530:Pseudomonas	hypothetical protein	fig|6666666.135143.peg.4368	0	none
+57911	58429	+	0	272530:Pseudomonas	acetyltransferase, GNAT family	fig|6666666.135143.peg.4369	0	none
+59177	58455	-	0	272530:Pseudomonas	Haloacid dehalogenase, type II (EC 3.8.1.2)	fig|6666666.135143.peg.4370	0	none
+59334	60329	+	0	272530:Pseudomonas	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	fig|6666666.135143.peg.4371	0	none
+60595	62235	+	0	272530:Pseudomonas	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.135143.peg.4372	0	none
+63497	62298	-	0	272530:Pseudomonas	Arabinose efflux permease	fig|6666666.135143.peg.4373	0	none
+65050	63758	-	0	272530:Pseudomonas	L-sorbosone dehydrogenase	fig|6666666.135143.peg.4374	0	none
+65475	65047	-	0	272530:Pseudomonas	Succinate dehydrogenase cytochrome b subunit family protein	fig|6666666.135143.peg.4375	0	none
+67300	65762	-	0	272530:Pseudomonas	deoxyribodipyrimidine photolyase-related protein	fig|6666666.135143.peg.4376	0	none
+67557	69710	+	0	272530:Pseudomonas	Outer membrane ferripyoverdine receptor	fig|6666666.135143.peg.4377	0	none
+70000	69761	-	0	272530:Pseudomonas	Transcriptional regulator, ArsR family	fig|6666666.135143.peg.4378	0	none
+69984	70100	+	0	272530:Pseudomonas	hypothetical protein	fig|6666666.135143.peg.4379	0	none
+70361	70609	+	0	272530:Pseudomonas	FIG00954630: hypothetical protein	fig|6666666.135143.peg.4380	0	none
+70663	73359	+	0	272530:Pseudomonas	glycosyl hydrolase, family 3	fig|6666666.135143.peg.4381	0	none
+74100	73447	-	0	272530:Pseudomonas	Transcriptional regulator, TetR family	fig|6666666.135143.peg.4382	0	none
+74681	77551	+	0	272530:Pseudomonas	FOG: PAS/PAC domain	fig|6666666.135143.peg.4383	0	none
+77657	78265	+	0	272530:Pseudomonas	Transcriptional regulator, TetR family	fig|6666666.135143.peg.4384	0	none
+78611	80251	+	0	272530:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.135143.peg.4385	0	none
+80358	81179	+	0	272530:Pseudomonas	Oxidoreductase, aldo/keto reductase family	fig|6666666.135143.peg.4386	0	none
+81351	82370	+	0	272530:Pseudomonas	Magnesium and cobalt transport protein CorA	fig|6666666.135143.peg.4387	0	none
+82487	84103	+	0	272530:Pseudomonas	Low-affinity inorganic phosphate transporter	fig|6666666.135143.peg.4388	0	none
+85380	84223	-	0	272530:Pseudomonas	HlyD family secretion protein	fig|6666666.135143.peg.4389	0	none
+87005	85377	-	0	272530:Pseudomonas	Permeases of the major facilitator superfamily	fig|6666666.135143.peg.4390	0	none
+87325	88422	+	0	272530:Pseudomonas	3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)	fig|6666666.135143.peg.4391	0	none
+88426	89577	+	0	272530:Pseudomonas	Butyryl-CoA dehydrogenase (EC 1.3.99.2)	fig|6666666.135143.peg.4392	0	none
+94835	89622	-	0	272530:Pseudomonas	FIG00953697: hypothetical protein	fig|6666666.135143.peg.4393	0	none
+95558	94974	-	0	272530:Pseudomonas	FMN reductase, NADPH-dependent	fig|6666666.135143.peg.4394	0	none

@@ -1,0 +1,16 @@
+33641	32772	-	1	Pseudomonas viridiflava uasws0038 AMQP01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135394.peg.2871	84.80	none
+19261	19962	+	0	Pseudomonas viridiflava uasws0038 AMQP01	Glutathione S-transferase (EC 2.5.1.18)	fig|6666666.135394.peg.2861	0	none
+22286	21267	-	0	Pseudomonas viridiflava uasws0038 AMQP01	Lipase	fig|6666666.135394.peg.2862	0	none
+22875	22492	-	0	Pseudomonas viridiflava uasws0038 AMQP01	Permeases of the major facilitator superfamily	fig|6666666.135394.peg.2863	0	none
+23992	23018	-	0	Pseudomonas viridiflava uasws0038 AMQP01	NADH:flavin oxidoreductases, Old Yellow Enzyme family	fig|6666666.135394.peg.2864	0	none
+24224	25195	+	0	Pseudomonas viridiflava uasws0038 AMQP01	Transcriptional regulator	fig|6666666.135394.peg.2865	0	none
+27033	26332	-	0	Pseudomonas viridiflava uasws0038 AMQP01	hypothetical	fig|6666666.135394.peg.2866	0	none
+27257	27406	+	0	Pseudomonas viridiflava uasws0038 AMQP01	hypothetical protein	fig|6666666.135394.peg.2867	0	none
+27832	30831	+	0	Pseudomonas viridiflava uasws0038 AMQP01	FIG00959565: hypothetical protein	fig|6666666.135394.peg.2868	0	none
+31870	30899	-	0	Pseudomonas viridiflava uasws0038 AMQP01	Esterase/lipase	fig|6666666.135394.peg.2869	0	none
+32087	32629	+	0	Pseudomonas viridiflava uasws0038 AMQP01	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135394.peg.2870	0	none
+33885	33697	-	7	Pseudomonas viridiflava uasws0038 AMQP01	FIG006220: Hypothetical MbtH-like protein	fig|6666666.135394.peg.2872	75.93	none
+43093	33872	-	20	Pseudomonas viridiflava uasws0038 AMQP01	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.135394.peg.2873	66.38	none
+47205	43093	-	2	Pseudomonas viridiflava uasws0038 AMQP01	Peptide synthetase	fig|6666666.135394.peg.2874	83.61	none
+56912	47202	-	15	Pseudomonas viridiflava uasws0038 AMQP01	Non-ribosomal peptide synthetase modules, pyoverdine @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.135394.peg.2875	68.88	none
+57950	60952	+	0	Pseudomonas viridiflava uasws0038 AMQP01	Outer membrane stress sensor protease DegS	fig|6666666.135394.peg.2876	0	none

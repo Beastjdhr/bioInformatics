@@ -1,0 +1,20 @@
+62250	61351	-	1	Pseudomonas denitrificans JVFY01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136644.peg.2759	31.37	none
+52494	51613	-	0	Pseudomonas denitrificans JVFY01	Triphosphoribosyl-dephospho-CoA synthetase (EC 2.7.8.25)	fig|6666666.136644.peg.2749	0	none
+54158	52494	-	0	Pseudomonas denitrificans JVFY01	Malonate decarboxylase alpha subunit	fig|6666666.136644.peg.2750	0	none
+54850	54269	-	0	Pseudomonas denitrificans JVFY01	FIG00956092: hypothetical protein	fig|6666666.136644.peg.2751	0	none
+55066	55278	+	0	Pseudomonas denitrificans JVFY01	hypothetical protein	fig|6666666.136644.peg.2752	0	none
+55860	55459	-	0	Pseudomonas denitrificans JVFY01	Biopolymer transport protein ExbD/TolR	fig|6666666.136644.peg.2753	0	none
+56581	55862	-	0	Pseudomonas denitrificans JVFY01	MotA/TolQ/ExbB proton channel family protein	fig|6666666.136644.peg.2754	0	none
+57422	56610	-	0	Pseudomonas denitrificans JVFY01	Ferric siderophore transport system, periplasmic binding protein TonB	fig|6666666.136644.peg.2755	0	none
+59202	57766	-	0	Pseudomonas denitrificans JVFY01	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	fig|6666666.136644.peg.2756	0	none
+59510	59202	-	0	Pseudomonas denitrificans JVFY01	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.136644.peg.2757	0	none
+60704	59586	-	0	Pseudomonas denitrificans JVFY01	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.136644.peg.2758	0	none
+63220	62318	-	14	Pseudomonas denitrificans JVFY01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136644.peg.2760	31.44	none
+65633	63261	-	0	Pseudomonas denitrificans JVFY01	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.136644.peg.2761	0	none
+65622	65885	+	0	Pseudomonas denitrificans JVFY01	FIG00953428: hypothetical protein	fig|6666666.136644.peg.2762	0	none
+65984	66901	+	0	Pseudomonas denitrificans JVFY01	LysR family transcriptional regulator PA0191	fig|6666666.136644.peg.2763	0	none
+67650	66925	-	0	Pseudomonas denitrificans JVFY01	Membrane-associated phospholipid phosphatase	fig|6666666.136644.peg.2764	0	none
+67898	69256	+	0	Pseudomonas denitrificans JVFY01	Outer membrane porin, OprD family	fig|6666666.136644.peg.2765	0	none
+70340	69279	-	0	Pseudomonas denitrificans JVFY01	Alkanesulfonates-binding protein	fig|6666666.136644.peg.2766	0	none
+70607	72223	+	0	Pseudomonas denitrificans JVFY01	Alkanesulfonates transport system permease protein	fig|6666666.136644.peg.2767	0	none
+72220	73059	+	0	Pseudomonas denitrificans JVFY01	Alkanesulfonates ABC transporter ATP-binding protein / Sulfonate ABC transporter, ATP-binding subunit SsuB	fig|6666666.136644.peg.2768	0	none

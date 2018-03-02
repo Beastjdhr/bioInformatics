@@ -1,0 +1,20 @@
+39395	40264	+	1	Pseudomonas viridiflava JXQO01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135022.peg.5130	84.40	none
+3676	4512	+	0	Pseudomonas viridiflava JXQO01	NAD synthetase (EC 6.3.1.5)	fig|6666666.135022.peg.5120	0	none
+4975	6246	+	0	Pseudomonas viridiflava JXQO01	Aspartate carbamoyltransferase (EC 2.1.3.2)	fig|6666666.135022.peg.5121	0	none
+8442	6280	-	0	Pseudomonas viridiflava JXQO01	Outer membrane ferripyoverdine receptor	fig|6666666.135022.peg.5122	0	none
+11990	8877	-	0	Pseudomonas viridiflava JXQO01	Outer membrane stress sensor protease DegS	fig|6666666.135022.peg.5123	0	none
+15085	12083	-	0	Pseudomonas viridiflava JXQO01	Outer membrane stress sensor protease DegS	fig|6666666.135022.peg.5124	0	none
+15414	15542	+	0	Pseudomonas viridiflava JXQO01	hypothetical protein	fig|6666666.135022.peg.5125	0	none
+16124	25834	+	15	Pseudomonas viridiflava JXQO01	Probable non ribosomal peptide synthetase protein	fig|6666666.135022.peg.5126	68.88	none
+25831	29943	+	2	Pseudomonas viridiflava JXQO01	Peptide synthetase	fig|6666666.135022.peg.5127	85.25	none
+29943	39164	+	20	Pseudomonas viridiflava JXQO01	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.135022.peg.5128	67.07	none
+39151	39339	+	7	Pseudomonas viridiflava JXQO01	FIG006220: Hypothetical MbtH-like protein	fig|6666666.135022.peg.5129	75.93	none
+40950	40408	-	0	Pseudomonas viridiflava JXQO01	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135022.peg.5131	0	none
+41167	42138	+	0	Pseudomonas viridiflava JXQO01	Esterase/lipase	fig|6666666.135022.peg.5132	0	none
+45205	42206	-	0	Pseudomonas viridiflava JXQO01	FIG00959565: hypothetical protein	fig|6666666.135022.peg.5133	0	none
+46824	45853	-	0	Pseudomonas viridiflava JXQO01	Transcriptional regulator	fig|6666666.135022.peg.5134	0	none
+47056	48030	+	0	Pseudomonas viridiflava JXQO01	NADH:flavin oxidoreductases, Old Yellow Enzyme family	fig|6666666.135022.peg.5135	0	none
+48173	48556	+	0	Pseudomonas viridiflava JXQO01	Permeases of the major facilitator superfamily	fig|6666666.135022.peg.5136	0	none
+48796	48575	-	0	Pseudomonas viridiflava JXQO01	hypothetical protein	fig|6666666.135022.peg.5137	0	none
+50265	49606	-	0	Pseudomonas viridiflava JXQO01	Glutathione S-transferase (EC 2.5.1.18)	fig|6666666.135022.peg.5138	0	none
+50482	51030	+	0	Pseudomonas viridiflava JXQO01	Transcriptional regulator, TetR family	fig|6666666.135022.peg.5139	0	none

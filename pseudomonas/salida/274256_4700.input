@@ -1,0 +1,42 @@
+238088	238948	+	1	274256:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136867.peg.4700	0	none
+238088	238948	+	1	274256:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136867.peg.4700	0	none
+207913	209205	+	0	274256:Pseudomonas	L-sorbosone dehydrogenase	fig|6666666.136867.peg.4690	0	none
+209456	210655	+	0	274256:Pseudomonas	Arabinose efflux permease	fig|6666666.136867.peg.4691	0	none
+212356	210716	-	0	274256:Pseudomonas	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.136867.peg.4692	0	none
+213640	212645	-	0	274256:Pseudomonas	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	fig|6666666.136867.peg.4693	0	none
+213798	214520	+	0	274256:Pseudomonas	Haloacid dehalogenase, type II (EC 3.8.1.2)	fig|6666666.136867.peg.4694	0	none
+215064	214546	-	0	274256:Pseudomonas	acetyltransferase, GNAT family	fig|6666666.136867.peg.4695	0	none
+215684	224719	+	0	274256:Pseudomonas	Pyoverdine sidechain non-ribosomal peptide synthetase PvdJ	fig|6666666.136867.peg.4696	0	none
+224716	228828	+	0	274256:Pseudomonas	Peptide synthetase	fig|6666666.136867.peg.4697	0	none
+228825	237980	+	0	274256:Pseudomonas	Non-ribosomal peptide synthase	fig|6666666.136867.peg.4698	0	none
+238062	237949	-	0	274256:Pseudomonas	hypothetical protein	fig|6666666.136867.peg.4699	0	none
+239505	238990	-	0	274256:Pseudomonas	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.136867.peg.4701	0	none
+239572	240786	+	0	274256:Pseudomonas	Carboxynorspermidine dehydrogenase	fig|6666666.136867.peg.4702	0	none
+241070	242983	+	0	274256:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.136867.peg.4703	0	none
+243946	243014	-	0	274256:Pseudomonas	Permease of the drug/metabolite transporter (DMT) superfamily	fig|6666666.136867.peg.4704	0	none
+244021	244875	+	0	274256:Pseudomonas	Transcriptional regulator, LysR family	fig|6666666.136867.peg.4705	0	none
+245416	245186	-	0	274256:Pseudomonas	Prevent host death protein, Phd antitoxin	fig|6666666.136867.peg.4706	0	none
+246601	245585	-	0	274256:Pseudomonas	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)	fig|6666666.136867.peg.4707	0	none
+246776	247294	+	0	274256:Pseudomonas	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|6666666.136867.peg.4708	0	none
+247444	248352	+	0	274256:Pseudomonas	Membrane protein, putative	fig|6666666.136867.peg.4709	0	none
+249316	248531	-	0	274256:Pseudomonas	Nucleoside-binding outer membrane protein	fig|6666666.136867.peg.4710	0	none
+250981	249707	-	0	274256:Pseudomonas	conserved hypothetical membrane protein, paralogue of Y20848	fig|6666666.136867.peg.4711	0	none
+251499	250987	-	0	274256:Pseudomonas	Ureidoglycolate hydrolase (EC 3.5.3.19)	fig|6666666.136867.peg.4712	0	none
+252737	251742	-	0	274256:Pseudomonas	Allantoicase (EC 3.5.3.4)	fig|6666666.136867.peg.4713	0	none
+253294	252779	-	0	274256:Pseudomonas	2-oxo-4-hydroxy-4-carboxy--5-ureidoimidazoline (OHCU) decarboxylase	fig|6666666.136867.peg.4714	0	none
+254220	253291	-	0	274256:Pseudomonas	Uricase (urate oxidase) (EC 1.7.3.3)	fig|6666666.136867.peg.4715	0	none
+254630	254962	+	0	274256:Pseudomonas	5-Hydroxyisourate Hydrolase (HIUase) (EC 3.5.2.17)	fig|6666666.136867.peg.4716	0	none
+255074	255826	+	0	274256:Pseudomonas	Transcriptional regulator, GntR family	fig|6666666.136867.peg.4717	0	none
+257901	256588	-	0	274256:Pseudomonas	Guanine deaminase (EC 3.5.4.3)	fig|6666666.136867.peg.4718	0	none
+258758	257919	-	0	274256:Pseudomonas	Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family	fig|6666666.136867.peg.4719	0	none
+261274	258755	-	0	274256:Pseudomonas	Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	fig|6666666.136867.peg.4720	0	none
+262706	261267	-	0	274256:Pseudomonas	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4) / Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)	fig|6666666.136867.peg.4721	0	none
+262998	263657	+	0	274256:Pseudomonas	Transcriptional regulator, GntR family	fig|6666666.136867.peg.4722	0	none
+263662	267150	+	0	274256:Pseudomonas	Chromosome partition protein smc	fig|6666666.136867.peg.4723	0	none
+267401	268270	+	0	274256:Pseudomonas	Cell division protein ZipA	fig|6666666.136867.peg.4724	0	none
+268400	270763	+	0	274256:Pseudomonas	DNA ligase (EC 6.5.1.2)	fig|6666666.136867.peg.4725	0	none
+271405	271539	+	0	274256:Pseudomonas	hypothetical protein	fig|6666666.136867.peg.4726	0	none
+272470	273636	+	0	274256:Pseudomonas	FIG00954563: hypothetical protein	fig|6666666.136867.peg.4727	0	none
+274177	273689	-	0	274256:Pseudomonas	Histone acetyltransferase HPA2 and related acetyltransferases	fig|6666666.136867.peg.4728	0	none
+275334	274681	-	0	274256:Pseudomonas	FIG00957444: hypothetical protein	fig|6666666.136867.peg.4729	0	none
+275671	276795	+	0	274256:Pseudomonas	Putative inner membrane protein	fig|6666666.136867.peg.4730	0	none

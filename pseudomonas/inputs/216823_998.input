@@ -1,0 +1,15 @@
+8956	8027	-	1	Pseudomonas nitroreducens HBP1 AZRU01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.102115.peg.998	33.84	none
+1969	401	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Organosulfonate ABC transporter ATP-binding protein	fig|6666666.102115.peg.992	0	none
+3488	2082	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Alkanesulfonates-binding protein	fig|6666666.102115.peg.993	0	none
+3945	3700	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Adenylylsulfate reductase beta-subunit (EC 1.8.99.2)	fig|6666666.102115.peg.994	0	none
+5995	4244	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2)	fig|6666666.102115.peg.995	0	none
+6462	5992	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Putative alkanesulfonate metabolism utilization regulator	fig|6666666.102115.peg.996	0	none
+7878	6988	-	14	Pseudomonas nitroreducens HBP1 AZRU01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.102115.peg.997	27.57	none
+11359	8990	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.102115.peg.999	0	none
+11668	12588	+	0	Pseudomonas nitroreducens HBP1 AZRU01	LysR family transcriptional regulator PA0191	fig|6666666.102115.peg.1000	0	none
+12803	13336	+	0	Pseudomonas nitroreducens HBP1 AZRU01	hypothetical protein	fig|6666666.102115.peg.1001	0	none
+13406	13852	+	0	Pseudomonas nitroreducens HBP1 AZRU01	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)	fig|6666666.102115.peg.1002	0	none
+14525	13857	-	0	Pseudomonas nitroreducens HBP1 AZRU01	SH3-like region	fig|6666666.102115.peg.1003	0	none
+14837	15172	+	0	Pseudomonas nitroreducens HBP1 AZRU01	Type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), A subunit	fig|6666666.102115.peg.1004	0	none
+16559	15174	-	0	Pseudomonas nitroreducens HBP1 AZRU01	Heavy metal sensor histidine kinase	fig|6666666.102115.peg.1005	0	none
+17230	16556	-	0	Pseudomonas nitroreducens HBP1 AZRU01	DNA-binding heavy metal response regulator	fig|6666666.102115.peg.1006	0	none

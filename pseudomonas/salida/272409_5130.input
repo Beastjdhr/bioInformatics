@@ -1,0 +1,31 @@
+39395	40264	+	1	272409:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135022.peg.5130	0	none
+39395	40264	+	1	272409:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135022.peg.5130	0	none
+3676	4512	+	0	272409:Pseudomonas	NAD synthetase (EC 6.3.1.5)	fig|6666666.135022.peg.5120	0	none
+4975	6246	+	0	272409:Pseudomonas	Aspartate carbamoyltransferase (EC 2.1.3.2)	fig|6666666.135022.peg.5121	0	none
+8442	6280	-	0	272409:Pseudomonas	Outer membrane ferripyoverdine receptor	fig|6666666.135022.peg.5122	0	none
+11990	8877	-	0	272409:Pseudomonas	Outer membrane stress sensor protease DegS	fig|6666666.135022.peg.5123	0	none
+15085	12083	-	0	272409:Pseudomonas	Outer membrane stress sensor protease DegS	fig|6666666.135022.peg.5124	0	none
+15414	15542	+	0	272409:Pseudomonas	hypothetical protein	fig|6666666.135022.peg.5125	0	none
+16124	25834	+	0	272409:Pseudomonas	Probable non ribosomal peptide synthetase protein	fig|6666666.135022.peg.5126	0	none
+25831	29943	+	0	272409:Pseudomonas	Peptide synthetase	fig|6666666.135022.peg.5127	0	none
+29943	39164	+	0	272409:Pseudomonas	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.135022.peg.5128	0	none
+39151	39339	+	0	272409:Pseudomonas	FIG006220: Hypothetical MbtH-like protein	fig|6666666.135022.peg.5129	0	none
+40950	40408	-	0	272409:Pseudomonas	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135022.peg.5131	0	none
+41167	42138	+	0	272409:Pseudomonas	Esterase/lipase	fig|6666666.135022.peg.5132	0	none
+45205	42206	-	0	272409:Pseudomonas	FIG00959565: hypothetical protein	fig|6666666.135022.peg.5133	0	none
+46824	45853	-	0	272409:Pseudomonas	Transcriptional regulator	fig|6666666.135022.peg.5134	0	none
+47056	48030	+	0	272409:Pseudomonas	NADH:flavin oxidoreductases, Old Yellow Enzyme family	fig|6666666.135022.peg.5135	0	none
+48173	48556	+	0	272409:Pseudomonas	Permeases of the major facilitator superfamily	fig|6666666.135022.peg.5136	0	none
+48796	48575	-	0	272409:Pseudomonas	hypothetical protein	fig|6666666.135022.peg.5137	0	none
+50265	49606	-	0	272409:Pseudomonas	Glutathione S-transferase (EC 2.5.1.18)	fig|6666666.135022.peg.5138	0	none
+50482	51030	+	0	272409:Pseudomonas	Transcriptional regulator, TetR family	fig|6666666.135022.peg.5139	0	none
+52385	51027	-	0	272409:Pseudomonas	Chromate transport protein ChrA	fig|6666666.135022.peg.5140	0	none
+53031	52432	-	0	272409:Pseudomonas	Transcriptional regulator, GntR family	fig|6666666.135022.peg.5141	0	none
+53354	54586	+	0	272409:Pseudomonas	FIG038418: hypothetical protein clustering with LamB	fig|6666666.135022.peg.5142	0	none
+54605	55375	+	0	272409:Pseudomonas	Lactam utilization protein LamB	fig|6666666.135022.peg.5143	0	none
+55372	56166	+	0	272409:Pseudomonas	hypothetical protein possibly connected to lactam utilization and allophanate hydrolase	fig|6666666.135022.peg.5144	0	none
+56176	57777	+	0	272409:Pseudomonas	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	fig|6666666.135022.peg.5145	0	none
+57774	59510	+	0	272409:Pseudomonas	Urea carboxylase (EC 6.3.4.6) without Allophanate hydrolase 2 domains	fig|6666666.135022.peg.5146	0	none
+59663	60904	+	0	272409:Pseudomonas	Tricarboxylate porin OpdH	fig|6666666.135022.peg.5147	0	none
+61143	61511	+	0	272409:Pseudomonas	FIG00454697: hypothetical protein	fig|6666666.135022.peg.5148	0	none
+61593	62498	+	0	272409:Pseudomonas	putative oxidoreductase	fig|6666666.135022.peg.5149	0	none

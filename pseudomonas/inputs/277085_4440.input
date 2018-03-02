@@ -1,0 +1,20 @@
+52642	53511	+	1	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.138909.peg.4440	83.20	none
+21935	22363	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Succinate dehydrogenase cytochrome b subunit family protein	fig|6666666.138909.peg.4430	0	none
+22360	23652	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	L-sorbosone dehydrogenase	fig|6666666.138909.peg.4431	0	none
+23982	25181	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Arabinose efflux permease	fig|6666666.138909.peg.4432	0	none
+26884	25244	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.138909.peg.4433	0	none
+28148	27153	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	fig|6666666.138909.peg.4434	0	none
+28318	29040	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Haloacid dehalogenase, type II (EC 3.8.1.2)	fig|6666666.138909.peg.4435	0	none
+29583	29065	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	acetyltransferase, GNAT family	fig|6666666.138909.peg.4436	0	none
+30310	39270	+	15	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Non-ribosomal peptide synthetase modules, pyoverdine @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.138909.peg.4437	69.37	none
+39267	43379	+	2	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Peptide synthetase	fig|6666666.138909.peg.4438	85.25	none
+43376	52546	+	13	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.138909.peg.4439	66.75	none
+54069	53554	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.138909.peg.4441	0	none
+54136	55350	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Carboxynorspermidine dehydrogenase	fig|6666666.138909.peg.4442	0	none
+55439	55326	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	hypothetical protein	fig|6666666.138909.peg.4443	0	none
+55619	57547	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Methyl-accepting chemotaxis protein	fig|6666666.138909.peg.4444	0	none
+58513	57581	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Permease of the drug/metabolite transporter (DMT) superfamily	fig|6666666.138909.peg.4445	0	none
+58588	59442	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Transcriptional regulator, LysR family	fig|6666666.138909.peg.4446	0	none
+59981	59751	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Prevent host death protein, Phd antitoxin	fig|6666666.138909.peg.4447	0	none
+61166	60150	-	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)	fig|6666666.138909.peg.4448	0	none
+61353	61859	+	0	Pseudomonas syringae pv. Pisi str. Pp1 AUZR02	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|6666666.138909.peg.4449	0	none

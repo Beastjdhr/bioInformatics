@@ -1,0 +1,36 @@
+17795	16926	-	1	273777:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136390.peg.3544	0	none
+17795	16926	-	1	273777:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136390.peg.3544	0	none
+6557	7342	+	0	273777:Pseudomonas	Nucleoside-binding outer membrane protein	fig|6666666.136390.peg.3534	0	none
+8427	7519	-	0	273777:Pseudomonas	Membrane protein, putative	fig|6666666.136390.peg.3535	0	none
+9082	8576	-	0	273777:Pseudomonas	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|6666666.136390.peg.3536	0	none
+9269	10285	+	0	273777:Pseudomonas	1-aminocyclopropane-1-carboxylate deaminase (EC 3.5.99.7)	fig|6666666.136390.peg.3537	0	none
+10454	10684	+	0	273777:Pseudomonas	Prevent host death protein, Phd antitoxin	fig|6666666.136390.peg.3538	0	none
+11847	10993	-	0	273777:Pseudomonas	Transcriptional regulator, LysR family	fig|6666666.136390.peg.3539	0	none
+11916	12854	+	0	273777:Pseudomonas	Permease of the drug/metabolite transporter (DMT) superfamily	fig|6666666.136390.peg.3540	0	none
+14816	12888	-	0	273777:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.136390.peg.3541	0	none
+16299	15085	-	0	273777:Pseudomonas	Carboxynorspermidine dehydrogenase	fig|6666666.136390.peg.3542	0	none
+16367	16882	+	0	273777:Pseudomonas	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.136390.peg.3543	0	none
+27074	17892	-	0	273777:Pseudomonas	Non-ribosomal peptide synthase	fig|6666666.136390.peg.3545	0	none
+31183	27071	-	0	273777:Pseudomonas	Peptide synthetase	fig|6666666.136390.peg.3546	0	none
+40164	31180	-	0	273777:Pseudomonas	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.136390.peg.3547	0	none
+42132	41410	-	0	273777:Pseudomonas	Haloacid dehalogenase, type II (EC 3.8.1.2)	fig|6666666.136390.peg.3549	0	none
+42302	43297	+	0	273777:Pseudomonas	L-fuco-beta-pyranose dehydrogenase (EC 1.1.1.122)	fig|6666666.136390.peg.3550	0	none
+43564	45204	+	0	273777:Pseudomonas	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.136390.peg.3551	0	none
+46466	45267	-	0	273777:Pseudomonas	Arabinose efflux permease	fig|6666666.136390.peg.3552	0	none
+48087	46795	-	0	273777:Pseudomonas	L-sorbosone dehydrogenase	fig|6666666.136390.peg.3553	0	none
+48512	48084	-	0	273777:Pseudomonas	Succinate dehydrogenase cytochrome b subunit family protein	fig|6666666.136390.peg.3554	0	none
+48802	48659	-	0	273777:Pseudomonas	hypothetical protein	fig|6666666.136390.peg.3555	0	none
+50337	48799	-	0	273777:Pseudomonas	deoxyribodipyrimidine photolyase-related protein	fig|6666666.136390.peg.3556	0	none
+50593	52746	+	0	273777:Pseudomonas	Outer membrane ferripyoverdine receptor	fig|6666666.136390.peg.3557	0	none
+53497	52802	-	0	273777:Pseudomonas	Transcriptional regulator, ArsR family	fig|6666666.136390.peg.3558	0	none
+53571	54818	+	0	273777:Pseudomonas	putative membrane protein	fig|6666666.136390.peg.3559	0	none
+55095	55343	+	0	273777:Pseudomonas	FIG00954630: hypothetical protein	fig|6666666.136390.peg.3560	0	none
+55397	58093	+	0	273777:Pseudomonas	glycosyl hydrolase, family 3	fig|6666666.136390.peg.3561	0	none
+58834	58181	-	0	273777:Pseudomonas	Transcriptional regulator, TetR family	fig|6666666.136390.peg.3562	0	none
+59199	59080	-	0	273777:Pseudomonas	hypothetical protein	fig|6666666.136390.peg.3563	0	none
+59379	62249	+	0	273777:Pseudomonas	FOG: PAS/PAC domain	fig|6666666.136390.peg.3564	0	none
+62355	62963	+	0	273777:Pseudomonas	Transcriptional regulator, TetR family	fig|6666666.136390.peg.3565	0	none
+63315	64946	+	0	273777:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.136390.peg.3566	0	none
+65053	65874	+	0	273777:Pseudomonas	Oxidoreductase, aldo/keto reductase family	fig|6666666.136390.peg.3567	0	none
+66046	67065	+	0	273777:Pseudomonas	Magnesium and cobalt transport protein CorA	fig|6666666.136390.peg.3568	0	none
+67191	68807	+	0	273777:Pseudomonas	Low-affinity inorganic phosphate transporter	fig|6666666.136390.peg.3569	0	none

@@ -1,0 +1,21 @@
+986	117	-	1	273622:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136235.peg.3993	0	none
+986	117	-	1	273622:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136235.peg.3993	0	none
+1230	1042	-	0	273622:Pseudomonas	MbtH-like protein	fig|6666666.136235.peg.3994	0	none
+10429	1217	-	0	273622:Pseudomonas	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.136235.peg.3995	0	none
+14541	10429	-	0	273622:Pseudomonas	Peptide synthetase	fig|6666666.136235.peg.3996	0	none
+24248	14538	-	0	273622:Pseudomonas	Thioesterase domains of type I polyketide synthases or non-ribosomal peptide synthetases	fig|6666666.136235.peg.3997	0	none
+25286	28288	+	0	273622:Pseudomonas	Outer membrane stress sensor protease DegS	fig|6666666.136235.peg.3998	0	none
+28381	31494	+	0	273622:Pseudomonas	Outer membrane stress sensor protease DegS	fig|6666666.136235.peg.3999	0	none
+31931	34093	+	0	273622:Pseudomonas	Outer membrane ferripyoverdine receptor	fig|6666666.136235.peg.4000	0	none
+37898	34455	-	0	273622:Pseudomonas	ice nucleation protein	fig|6666666.136235.peg.4001	0	none
+40046	38775	-	0	273622:Pseudomonas	Aspartate carbamoyltransferase (EC 2.1.3.2)	fig|6666666.136235.peg.4002	0	none
+41185	40349	-	0	273622:Pseudomonas	NAD synthetase (EC 6.3.1.5)	fig|6666666.136235.peg.4003	0	none
+42395	41190	-	0	273622:Pseudomonas	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	fig|6666666.136235.peg.4004	0	none
+43053	42412	-	0	273622:Pseudomonas	Nicotinamidase (EC 3.5.1.19)	fig|6666666.136235.peg.4005	0	none
+43336	43785	+	0	273622:Pseudomonas	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) ## bacterial NadD family	fig|6666666.136235.peg.4006	0	none
+43787	44500	+	0	273622:Pseudomonas	Nudix-related transcriptional regulator NrtR	fig|6666666.136235.peg.4007	0	none
+44533	45072	+	0	273622:Pseudomonas	ADP-ribose pyrophosphatase (EC 3.6.1.13)	fig|6666666.136235.peg.4008	0	none
+45110	46648	+	0	273622:Pseudomonas	deoxyribodipyrimidine photolyase-related protein	fig|6666666.136235.peg.4009	0	none
+46873	47934	+	0	273622:Pseudomonas	Nucleoside-diphosphate-sugar epimerases	fig|6666666.136235.peg.4010	0	none
+48008	48373	+	0	273622:Pseudomonas	hypothetical protein	fig|6666666.136235.peg.4011	0	none
+48959	48381	-	0	273622:Pseudomonas	Hypothetical protein DUF1470, with CGNR zinc finger motif	fig|6666666.136235.peg.4012	0	none

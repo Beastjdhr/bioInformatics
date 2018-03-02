@@ -1,0 +1,42 @@
+36217	35318	-	1	272628:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135241.peg.3333	0	none
+36217	35318	-	1	272628:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135241.peg.3333	0	none
+28126	26462	-	0	272628:Pseudomonas	Malonate decarboxylase alpha subunit	fig|6666666.135241.peg.3323	0	none
+28818	28237	-	0	272628:Pseudomonas	FIG00956092: hypothetical protein	fig|6666666.135241.peg.3324	0	none
+29115	29246	+	0	272628:Pseudomonas	hypothetical protein	fig|6666666.135241.peg.3325	0	none
+29828	29427	-	0	272628:Pseudomonas	Biopolymer transport protein ExbD/TolR	fig|6666666.135241.peg.3326	0	none
+30549	29830	-	0	272628:Pseudomonas	MotA/TolQ/ExbB proton channel family protein	fig|6666666.135241.peg.3327	0	none
+31390	30578	-	0	272628:Pseudomonas	Ferric siderophore transport system, periplasmic binding protein TonB	fig|6666666.135241.peg.3328	0	none
+31736	31572	-	0	272628:Pseudomonas	hypothetical protein	fig|6666666.135241.peg.3329	0	none
+33169	31733	-	0	272628:Pseudomonas	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	fig|6666666.135241.peg.3330	0	none
+33486	33169	-	0	272628:Pseudomonas	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.135241.peg.3331	0	none
+34671	33553	-	0	272628:Pseudomonas	NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)	fig|6666666.135241.peg.3332	0	none
+37187	36285	-	0	272628:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135241.peg.3334	0	none
+39600	37228	-	0	272628:Pseudomonas	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.135241.peg.3335	0	none
+39589	39834	+	0	272628:Pseudomonas	FIG00953428: hypothetical protein	fig|6666666.135241.peg.3336	0	none
+39950	40867	+	0	272628:Pseudomonas	LysR family transcriptional regulator PA0191	fig|6666666.135241.peg.3337	0	none
+41616	40891	-	0	272628:Pseudomonas	Membrane-associated phospholipid phosphatase	fig|6666666.135241.peg.3338	0	none
+41864	43222	+	0	272628:Pseudomonas	Outer membrane porin, OprD family	fig|6666666.135241.peg.3339	0	none
+44141	43260	-	0	272628:Pseudomonas	membrane protein, putative	fig|6666666.135241.peg.3340	0	none
+44953	44138	-	0	272628:Pseudomonas	FIG00953273: hypothetical protein	fig|6666666.135241.peg.3341	0	none
+46432	45371	-	0	272628:Pseudomonas	Alkanesulfonates-binding protein	fig|6666666.135241.peg.3342	0	none
+46699	48315	+	0	272628:Pseudomonas	Alkanesulfonates transport system permease protein	fig|6666666.135241.peg.3343	0	none
+48312	49151	+	0	272628:Pseudomonas	Alkanesulfonates ABC transporter ATP-binding protein / Sulfonate ABC transporter, ATP-binding subunit SsuB	fig|6666666.135241.peg.3344	0	none
+49239	50849	+	0	272628:Pseudomonas	Choline-sulfatase (EC 3.1.6.6)	fig|6666666.135241.peg.3345	0	none
+51701	50949	-	0	272628:Pseudomonas	Oxidoreductase, short chain dehydrogenase/reductase family	fig|6666666.135241.peg.3346	0	none
+51818	52750	+	0	272628:Pseudomonas	Transcriptional regulator, LysR family	fig|6666666.135241.peg.3347	0	none
+52943	54115	+	0	272628:Pseudomonas	Methyl-accepting chemotaxis protein	fig|6666666.135241.peg.3348	0	none
+54313	54678	+	0	272628:Pseudomonas	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY	fig|6666666.135241.peg.3349	0	none
+54706	56625	+	0	272628:Pseudomonas	Signal transduction histidine kinase CheA (EC 2.7.3.-)	fig|6666666.135241.peg.3350	0	none
+56612	57097	+	0	272628:Pseudomonas	Positive regulator of CheA protein activity (CheW)	fig|6666666.135241.peg.3351	0	none
+57133	59172	+	0	272628:Pseudomonas	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)	fig|6666666.135241.peg.3352	0	none
+59242	60084	+	0	272628:Pseudomonas	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)	fig|6666666.135241.peg.3353	0	none
+60090	60692	+	0	272628:Pseudomonas	Chemotaxis protein CheD	fig|6666666.135241.peg.3354	0	none
+60712	61761	+	0	272628:Pseudomonas	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)	fig|6666666.135241.peg.3355	0	none
+62024	64015	+	0	272628:Pseudomonas	Serine phosphatase RsbU, regulator of sigma subunit	fig|6666666.135241.peg.3356	0	none
+64024	64566	+	0	272628:Pseudomonas	FIG062788: hypothetical protein	fig|6666666.135241.peg.3357	0	none
+64593	64973	+	0	272628:Pseudomonas	FIG057251: Fe-S oxidoreductase	fig|6666666.135241.peg.3358	0	none
+64980	65807	+	0	272628:Pseudomonas	FIG066100: Diguanylate cyclase (GGDEF domain) with PAS/PAC sensor	fig|6666666.135241.peg.3359	0	none
+66404	65814	-	0	272628:Pseudomonas	FIG000605: protein co-occurring with transport systems (COG1739)	fig|6666666.135241.peg.3360	0	none
+67075	66410	-	0	272628:Pseudomonas	Transcriptional regulator RutR of pyrimidine catabolism (TetR family)	fig|6666666.135241.peg.3361	0	none
+68574	67168	-	0	272628:Pseudomonas	Xanthine permease	fig|6666666.135241.peg.3362	0	none
+69652	68816	-	0	272628:Pseudomonas	Nucleoside-binding outer membrane protein	fig|6666666.135241.peg.3363	0	none

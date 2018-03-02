@@ -1,0 +1,10 @@
+986	117	-	1	Pseudomonas viridiflava ta043 AVDV01	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.136235.peg.3993	84.40	none
+1230	1042	-	7	Pseudomonas viridiflava ta043 AVDV01	MbtH-like protein	fig|6666666.136235.peg.3994	74.07	none
+10429	1217	-	20	Pseudomonas viridiflava ta043 AVDV01	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.136235.peg.3995	66.72	none
+14541	10429	-	2	Pseudomonas viridiflava ta043 AVDV01	Peptide synthetase	fig|6666666.136235.peg.3996	85.25	none
+24248	14538	-	15	Pseudomonas viridiflava ta043 AVDV01	Thioesterase domains of type I polyketide synthases or non-ribosomal peptide synthetases	fig|6666666.136235.peg.3997	68.42	none
+25286	28288	+	0	Pseudomonas viridiflava ta043 AVDV01	Outer membrane stress sensor protease DegS	fig|6666666.136235.peg.3998	0	none
+28381	31494	+	0	Pseudomonas viridiflava ta043 AVDV01	Outer membrane stress sensor protease DegS	fig|6666666.136235.peg.3999	0	none
+31931	34093	+	0	Pseudomonas viridiflava ta043 AVDV01	Outer membrane ferripyoverdine receptor	fig|6666666.136235.peg.4000	0	none
+37898	34455	-	0	Pseudomonas viridiflava ta043 AVDV01	ice nucleation protein	fig|6666666.136235.peg.4001	0	none
+40046	38775	-	0	Pseudomonas viridiflava ta043 AVDV01	Aspartate carbamoyltransferase (EC 2.1.3.2)	fig|6666666.136235.peg.4002	0	none

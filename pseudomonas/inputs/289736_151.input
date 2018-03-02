@@ -1,0 +1,20 @@
+161818	160949	-	1	Pseudomonas sp 91RF	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.148173.peg.151	85.20	none
+152898	151924	-	0	Pseudomonas sp 91RF	Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	fig|6666666.148173.peg.141	0	none
+153767	152895	-	0	Pseudomonas sp 91RF	Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)	fig|6666666.148173.peg.142	0	none
+155137	153764	-	0	Pseudomonas sp 91RF	Biotin carboxylase (EC 6.3.4.14)	fig|6666666.148173.peg.143	0	none
+155393	155148	-	0	Pseudomonas sp 91RF	Biotin carboxyl carrier protein	fig|6666666.148173.peg.144	0	none
+156241	155483	-	0	Pseudomonas sp 91RF	Lactam utilization protein LamB	fig|6666666.148173.peg.145	0	none
+156366	157283	+	0	Pseudomonas sp 91RF	Transcriptional regulator, LysR family	fig|6666666.148173.peg.146	0	none
+157382	158431	+	0	Pseudomonas sp 91RF	Alcohol dehydrogenase (EC 1.1.1.1)	fig|6666666.148173.peg.147	0	none
+158668	159183	+	0	Pseudomonas sp 91RF	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.148173.peg.148	0	none
+159222	160256	+	11	Pseudomonas sp 91RF	FIG01024442: hypothetical protein	fig|6666666.148173.peg.149	74.23	none
+160225	160914	+	19	Pseudomonas sp 91RF	hypothetical protein	fig|6666666.148173.peg.150	62.09	none
+162040	161834	-	7	Pseudomonas sp 91RF	MbtH-like protein	fig|6666666.148173.peg.152	74.07	none
+162555	162037	-	16	Pseudomonas sp 91RF	hypothetical protein	fig|6666666.148173.peg.153	51.61	none
+171803	162708	-	13	Pseudomonas sp 91RF	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.148173.peg.154	68.90	none
+175912	171800	-	2	Pseudomonas sp 91RF	Peptide synthetase	fig|6666666.148173.peg.155	81.97	none
+184917	175909	-	15	Pseudomonas sp 91RF	Non-ribosomal peptide synthetase modules, pyoverdine @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.148173.peg.156	70.37	none
+186450	186061	-	0	Pseudomonas sp 91RF	hypothetical protein	fig|6666666.148173.peg.157	0	none
+186478	186597	+	0	Pseudomonas sp 91RF	Organic hydroperoxide resistance protein	fig|6666666.148173.peg.158	0	none
+186745	188178	+	0	Pseudomonas sp 91RF	Catalase (EC 1.11.1.6)	fig|6666666.148173.peg.159	0	none
+189010	188249	-	0	Pseudomonas sp 91RF	Creatinine amidohydrolase (EC 3.5.2.10)	fig|6666666.148173.peg.160	0	none

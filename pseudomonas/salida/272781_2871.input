@@ -1,0 +1,17 @@
+33641	32772	-	1	272781:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135394.peg.2871	0	none
+33641	32772	-	1	272781:Pseudomonas	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.135394.peg.2871	0	none
+19261	19962	+	0	272781:Pseudomonas	Glutathione S-transferase (EC 2.5.1.18)	fig|6666666.135394.peg.2861	0	none
+22286	21267	-	0	272781:Pseudomonas	Lipase	fig|6666666.135394.peg.2862	0	none
+22875	22492	-	0	272781:Pseudomonas	Permeases of the major facilitator superfamily	fig|6666666.135394.peg.2863	0	none
+23992	23018	-	0	272781:Pseudomonas	NADH:flavin oxidoreductases, Old Yellow Enzyme family	fig|6666666.135394.peg.2864	0	none
+24224	25195	+	0	272781:Pseudomonas	Transcriptional regulator	fig|6666666.135394.peg.2865	0	none
+27033	26332	-	0	272781:Pseudomonas	hypothetical	fig|6666666.135394.peg.2866	0	none
+27257	27406	+	0	272781:Pseudomonas	hypothetical protein	fig|6666666.135394.peg.2867	0	none
+27832	30831	+	0	272781:Pseudomonas	FIG00959565: hypothetical protein	fig|6666666.135394.peg.2868	0	none
+31870	30899	-	0	272781:Pseudomonas	Esterase/lipase	fig|6666666.135394.peg.2869	0	none
+32087	32629	+	0	272781:Pseudomonas	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)	fig|6666666.135394.peg.2870	0	none
+33885	33697	-	0	272781:Pseudomonas	FIG006220: Hypothetical MbtH-like protein	fig|6666666.135394.peg.2872	0	none
+43093	33872	-	0	272781:Pseudomonas	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	fig|6666666.135394.peg.2873	0	none
+47205	43093	-	0	272781:Pseudomonas	Peptide synthetase	fig|6666666.135394.peg.2874	0	none
+56912	47202	-	0	272781:Pseudomonas	Non-ribosomal peptide synthetase modules, pyoverdine @ Siderophore biosynthesis non-ribosomal peptide synthetase modules	fig|6666666.135394.peg.2875	0	none
+57950	60952	+	0	272781:Pseudomonas	Outer membrane stress sensor protease DegS	fig|6666666.135394.peg.2876	0	none

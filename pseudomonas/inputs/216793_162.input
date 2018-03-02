@@ -1,0 +1,20 @@
+191997	192902	+	1	Pseudomonas denitrificans ATCC 13867 NC_020829	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.102095.peg.162	32.32	none
+180186	178363	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Signal transduction histidine kinase CheA (EC 2.7.3.-)	fig|6666666.102095.peg.152	0	none
+180575	180210	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY	fig|6666666.102095.peg.153	0	none
+181903	180716	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Methyl-accepting chemotaxis protein	fig|6666666.102095.peg.154	0	none
+183825	182215	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Choline-sulfatase (EC 3.1.6.6)	fig|6666666.102095.peg.155	0	none
+184778	183951	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Alkanesulfonates ABC transporter ATP-binding protein / Sulfonate ABC transporter, ATP-binding subunit SsuB	fig|6666666.102095.peg.156	0	none
+186265	184775	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Alkanesulfonates transport system permease protein	fig|6666666.102095.peg.157	0	none
+186630	187688	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Alkanesulfonates-binding protein	fig|6666666.102095.peg.158	0	none
+189219	188311	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	LysR family transcriptional regulator PA0191	fig|6666666.102095.peg.159	0	none
+189572	189396	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	hypothetical protein	fig|6666666.102095.peg.160	0	none
+189555	191939	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Outer membrane receptor proteins, mostly Fe transport	fig|6666666.102095.peg.161	0	none
+193057	193947	+	14	Pseudomonas denitrificans ATCC 13867 NC_020829	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17)	fig|6666666.102095.peg.163	30.37	none
+195380	194022	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Guanine deaminase (EC 3.5.4.3); Hydroxydechloroatrazine ethylaminohydrolase (EC 3.5.99.3)	fig|6666666.102095.peg.164	0	none
+196344	195661	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Probable short-chain dehydrogenase	fig|6666666.102095.peg.165	0	none
+197968	196661	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Dicarboxylate MFS transporter	fig|6666666.102095.peg.166	0	none
+199084	198293	-	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Transcriptional regulator, AraC family	fig|6666666.102095.peg.167	0	none
+199168	200784	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Gamma-glutamyltranspeptidase (EC 2.3.2.2)	fig|6666666.102095.peg.168	0	none
+201254	202090	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Nucleoside-binding outer membrane protein	fig|6666666.102095.peg.169	0	none
+202242	202898	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	Transcriptional regulator RutR of pyrimidine catabolism (TetR family)	fig|6666666.102095.peg.170	0	none
+202895	203485	+	0	Pseudomonas denitrificans ATCC 13867 NC_020829	FIG000605: protein co-occurring with transport systems (COG1739)	fig|6666666.102095.peg.171	0	none
